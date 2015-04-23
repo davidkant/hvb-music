@@ -71,9 +71,9 @@ r4
 \times 4/5 
 {
 
-r8. [ 
+r8.  
 b16 
-b16~  ]
+b16~  
 }
 
 % Measure 4
@@ -81,12 +81,12 @@ b16~  ]
 
 
 b4~ 
-b32 [ 
-b8..~  ]
+b32  
+b8..~  
 b4 
 r32 
-b16 [ 
-a16.  ]
+b16  
+a16.  
 r16 
 % Measure 5
 
@@ -141,8 +141,8 @@ bes4~
 bes16~ 
 }
 
-bes8 [ 
-bes8~  ]
+bes8  
+bes8~  
 % Measure 10
 
 
@@ -151,8 +151,8 @@ bes4
 r32 
 <  bes~  b~>8.. 
 <  bes~  b~ >4 
-<  bes  b >8. [ 
-bes16~  ]
+<  bes  b >8.  
+bes16~  
 % Measure 11
 
 
@@ -194,15 +194,15 @@ r16
 b16~ 
 }
 
-b8 [ 
-ais8~  ]
+b8  
+ais8~  
 ais4~ 
 % Measure 15
 
 
 
-ais8.. [ 
-ais32~  ]
+ais8..  
+ais32~  
 ais4 
 r4 
 r4 
@@ -219,8 +219,8 @@ a16~
 
 
 
-a16 [ 
-bes16  ]
+a16  
+bes16  
 r8 
 r32 
 a8..~ 
@@ -228,9 +228,9 @@ a4
 \times 2/3 
 {
 
-r16 [ 
+r16  
 bes8. 
-r8  ]
+r8  
 }
 
 % Measure 18
@@ -250,9 +250,9 @@ bes4~
 \times 2/3 
 {
 
-bes16 [ 
+bes16  
 bes8. 
-r8  ]
+r8  
 }
 
 % Measure 19
@@ -266,9 +266,9 @@ a8..~
 \times 2/3 
 {
 
-a16 [ 
+a16  
 bes8. 
-bes8  ]
+bes8  
 }
 
 % Measure 20
@@ -276,8 +276,8 @@ bes8  ]
 
 
 <  a~  bes~>4 
-<  a  ais >16 [ 
-a16  ]
+<  a  ais >16  
+a16  
 r16 
 b16~ 
 b4 
@@ -344,9 +344,9 @@ r4
 r4 
 r16 
 a8.~ 
-a32 [ 
+a32  
 <  a  b>16 
-b8~  ]
+b8~  
 b32~ 
 b4 
 % Measure 28
@@ -355,12 +355,12 @@ b4
 
 a16 
 r8. 
-a8. [ 
-bes16~  ]
-bes8. [ 
-b16~  ]
-b32 [ 
-bes32  ]
+a8.  
+bes16~  
+bes8.  
+b16~  
+b32  
+bes32  
 r8 
 b32 
 r32 
@@ -404,8 +404,8 @@ r4
 
 r32 
 a8..~ 
-a8. [ 
-<  a~  bes~>16  ]
+a8.  
+<  a~  bes~>16  
 <  a  ais >4 
 r4 
 % Measure 35
@@ -424,10 +424,10 @@ bes16.~
 
 
 
-bes32 [ 
-<  a~  bes~>8..  ]
-<  a  ais >32 [ 
-b32  ]
+bes32  
+<  a~  bes~>8..  
+<  a  ais >32  
+b32  
 r8 
 bes32 
 r32 
@@ -446,8 +446,8 @@ a4
 a2~ 
 }
 
-a8. [ 
-bes16~  ]
+a8.  
+bes16~  
 % Measure 38
 
 
@@ -462,8 +462,8 @@ b8~
 
 b4 
 r16 
-ais8 [ 
-ais16~  ]
+ais8  
+ais16~  
 % Measure 39
 
 
@@ -553,8 +553,8 @@ R4*4
 
 r4 
 b4~ 
-b32 [ 
-b32  ]
+b32  
+b32  
 r8 
 b16~ 
 b4~ 
@@ -562,12 +562,12 @@ b4~
 
 
 
-b32 [ 
-a8..~  ]
-a32 [ 
-b8~  ]
-b32 [ 
-ais16  ]
+b32  
+a8..~  
+a32  
+b8~  
+b32  
+ais16  
 r4 
 \times 2/3 
 {
@@ -602,26 +602,26 @@ r4
 
 r32 
 <  a~  b~>8.. 
-<  a  b >32 [ 
-a8.  ]
+<  a  b >32  
+a8.  
 r32 
-bes8. [ 
-a16~  ]
-a32 [ 
+bes8.  
+a16~  
+a32  
 a8 
-bes16.  ]
+bes16.  
 % Measure 55
 
 
 
-<  bes  b>8. [ 
-b16~  ]
-b32 [ 
+<  bes  b>8.  
+b16~  
+b32  
 b8 
-b16.~  ]
+b16.~  
 b4 
-<  a  b>8. [ 
-ais16  ]
+<  a  b>8.  
+ais16  
 % Measure 56
 
 
@@ -640,8 +640,8 @@ r4
 r4 
 r16 
 <  a~  bes~>8 
-<  a  ais >32 [ 
-bes32~  ]
+<  a  ais >32  
+bes32~  
 bes4 
 % Measure 58
 
@@ -719,8 +719,8 @@ b8~
 
 
 
-b32 [ 
-ais8..  ]
+b32  
+ais8..  
 a8. 
 r16 
 r4 
@@ -737,16 +737,16 @@ bes8~
 
 bes4~ 
 bes8~ 
-bes32 [ 
-a32  ]
+bes32  
+a32  
 r32 
 bes32~ 
 bes4 
 \times 4/5 
 {
 
-bes8. [ 
-b8  ]
+bes8.  
+b8  
 }
 
 % Measure 67
@@ -800,8 +800,8 @@ r4
 
 
 r4
-b8 [ 
-bes16  ]
+b8  
+bes16  
 r16 
 r4 
 r4 
@@ -839,11 +839,11 @@ b4~
 
 
 
-b16. [ 
-b8~  ]
+b16.  
+b8~  
 b32~ 
-b32 [ 
-b8..~  ]
+b32  
+b8..~  
 b4 
 \times 2/3 
 {
