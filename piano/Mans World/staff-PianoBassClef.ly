@@ -82,17 +82,12 @@ ais4~
 ais16 
 }
 
-r4 
-r4 
-r4 
+2.
 % Measure 3
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 4
 
 
@@ -154,8 +149,7 @@ r4
 
 
 
-r4 
-r4 
+r2
 \times 2/3 
 {
 
@@ -192,15 +186,12 @@ r4
 r4 
 r16 
 a8.
-r4 
-r4 
+r2
 % Measure 11
 
 
 
-r4 
-r4 
-r4 
+r2.
 \times 2/3 
 {
 
@@ -228,10 +219,7 @@ r4
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 14
 
 
@@ -251,50 +239,34 @@ r4
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 16
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 17
 
 
 
-r4 
-r4 
-r4 
+r2.
 r8 
 a8
 % Measure 18
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 19
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 20
 
 
 
-r4 
-r4 
-r4 
+r2.
 a8.
 r16 
 % Measure 21
@@ -333,14 +305,12 @@ bes4
 
 r4 
 bes4
-r4 
-r4 
+r2
 % Measure 24
 
 
 
-r4 
-r4 
+r2
 bes16
 r8. 
 r4 
@@ -348,18 +318,14 @@ r4
 
 
 
-r4 
-r4 
-r4 
+r2.
 b8
 r8 
 % Measure 26
 
 
 
-r4 
-r4 
-r4 
+r2.
 \times 2/3 
 {
 
@@ -372,15 +338,12 @@ b8~
 
 
 b4 
-r4 
-r4 
-r4 
+r2.
 % Measure 28
 
 
 
-r4 
-r4 
+r2
 \times 4/5 
 {
 
@@ -417,16 +380,12 @@ r4
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 32
 
 
 
-r4 
-r4 
+r2
 \times 2/3 
 {
 
@@ -455,17 +414,12 @@ a16
 r4 
 }
 
-r4 
-r4 
-r4 
+r2.
 % Measure 35
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 36
 
 
@@ -478,8 +432,7 @@ r4
 
 
 
-r4 
-r4 
+r2
 \times 2/3 
 {
 
@@ -516,17 +469,12 @@ r4
 
 
 
-r4 
-r4 
-r4 
-r4 
+R1
 % Measure 40
 
 
 
-r4 
-r4 
-r4 
+r2.
 \times 2/3 
 {
 
@@ -581,8 +529,7 @@ r4
 
 
 
-r4 
-r4 
+r2
 \times 2/3 
 {
 
