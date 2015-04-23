@@ -44,20 +44,20 @@ r4
 r4 
 r4 
 r8 
-b16_\markup{  \fontsize #-4 "28"} 
+b16 
 r16 
 % Measure 2
 
 
 
 r4 
-a8._\markup{  \fontsize #-4 "-34"} 
+a8. 
 r16 
 \times 2/3 
 {
 
 r4 
-bes8_\markup{  \fontsize #-4 "5"} 
+bes8 
 }
 
 r4 
@@ -72,8 +72,8 @@ r4
 {
 
 r8. [ 
-b16_\markup{  \fontsize #-4 "21"} 
-b16~_\markup{  \fontsize #-4 "30"}  ]
+b16 
+b16~  ]
 }
 
 % Measure 4
@@ -82,11 +82,11 @@ b16~_\markup{  \fontsize #-4 "30"}  ]
 
 b4~ 
 b32 [ 
-b8..~_\markup{  \fontsize #-4 "36"}  ]
+b8..~  ]
 b4 
 r32 
-b16_\markup{  \fontsize #-4 "-48"} [ 
-a16._\markup{  \fontsize #-4 "-29"}  ]
+b16 [ 
+a16.  ]
 r16 
 % Measure 5
 
@@ -108,14 +108,14 @@ R4*4
 
 
 r8. 
-bes16~_\markup{  \fontsize #-4 "38"} 
+bes16~ 
 bes4 
 \times 2/3 
 {
 
 r4 
 r16 
-b16~_\markup{  \fontsize #-4 "20"} 
+b16~ 
 }
 
 b4 
@@ -124,12 +124,12 @@ b4
 
 
 r32 
-<  bes  b-\addText #"45"  >8.._\markup{  \fontsize #-4 "-18"} 
+<  bes  b>8.. 
 \times 2/3 
 {
 
-bes16_\markup{  \fontsize #-4 "-39"} 
-bes4~_\markup{  \fontsize #-4 "-18"} 
+bes16 
+bes4~ 
 bes16~ 
 }
 
@@ -137,22 +137,22 @@ bes16~
 {
 
 bes16 
-bes4~_\markup{  \fontsize #-4 "33"} 
+bes4~ 
 bes16~ 
 }
 
 bes8 [ 
-bes8~_\markup{  \fontsize #-4 "-3"}  ]
+bes8~  ]
 % Measure 10
 
 
 
 bes4 
 r32 
-<  bes~  b~-\addText #"43"  >8.._\markup{  \fontsize #-4 "18"} 
+<  bes~  b~>8.. 
 <  bes~  b~ >4 
 <  bes  b >8. [ 
-bes16~_\markup{  \fontsize #-4 "30"}  ]
+bes16~  ]
 % Measure 11
 
 
@@ -163,24 +163,24 @@ r4
 
 
 
-b2~_\markup{  \fontsize #-4 "-1"} 
+b2~ 
 \times 2/3 
 {
 
 b4 
-ais16_\markup{  \fontsize #-4 "34"} 
+ais16 
 r16 
 }
 
 r32 
-<  ais~  b~-\addText #"-5"  >8.._\markup{  \fontsize #-4 "10"} 
+<  ais~  b~>8.. 
 % Measure 13
 
 
 
 <  ais  b >4 
 r4 
-ais2_\markup{  \fontsize #-4 "10"} 
+ais2 
 % Measure 14
 
 
@@ -191,18 +191,18 @@ r4
 
 r4 
 r16 
-b16~_\markup{  \fontsize #-4 "40"} 
+b16~ 
 }
 
 b8 [ 
-ais8~_\markup{  \fontsize #-4 "14"}  ]
+ais8~  ]
 ais4~ 
 % Measure 15
 
 
 
 ais8.. [ 
-ais32~_\markup{  \fontsize #-4 "-10"}  ]
+ais32~  ]
 ais4 
 r4 
 r4 
@@ -214,22 +214,22 @@ r4
 r4 
 r4 
 r8. 
-a16~_\markup{  \fontsize #-4 "-14"} 
+a16~ 
 % Measure 17
 
 
 
 a16 [ 
-bes16_\markup{  \fontsize #-4 "-2"}  ]
+bes16  ]
 r8 
 r32 
-a8..~_\markup{  \fontsize #-4 "1"} 
+a8..~ 
 a4 
 \times 2/3 
 {
 
 r16 [ 
-bes8._\markup{  \fontsize #-4 "-11"} 
+bes8. 
 r8  ]
 }
 
@@ -242,7 +242,7 @@ r4
 {
 
 r16 
-bes4~_\markup{  \fontsize #-4 "-48"} 
+bes4~ 
 bes16~ 
 }
 
@@ -251,7 +251,7 @@ bes4~
 {
 
 bes16 [ 
-bes8._\markup{  \fontsize #-4 "-31"} 
+bes8. 
 r8  ]
 }
 
@@ -262,37 +262,37 @@ r8  ]
 r4 
 r4 
 r32 
-a8..~_\markup{  \fontsize #-4 "28"} 
+a8..~ 
 \times 2/3 
 {
 
 a16 [ 
-bes8._\markup{  \fontsize #-4 "-3"} 
-bes8_\markup{  \fontsize #-4 "-30"}  ]
+bes8. 
+bes8  ]
 }
 
 % Measure 20
 
 
 
-<  a~  bes~-\addText #"-7"  >4_\markup{  \fontsize #-4 "-36"} 
+<  a~  bes~>4 
 <  a  ais >16 [ 
-a16_\markup{  \fontsize #-4 "-36"}  ]
+a16  ]
 r16 
-b16~_\markup{  \fontsize #-4 "15"} 
+b16~ 
 b4 
 \times 2/3 
 {
 
-bes4_\markup{  \fontsize #-4 "26"} 
-bes8_\markup{  \fontsize #-4 "39"} 
+bes4 
+bes8 
 }
 
 % Measure 21
 
 
 
-<  bes  b-\addText #"47"  >4_\markup{  \fontsize #-4 "13"} 
+<  bes  b>4 
 r4 
 r4 
 r4 
@@ -316,11 +316,11 @@ r4
 {
 
 r4 
-bes8_\markup{  \fontsize #-4 "26"} 
+bes8 
 }
 
 r32 
-bes32_\markup{  \fontsize #-4 "-46"} 
+bes32 
 r8. 
 % Measure 25
 
@@ -334,7 +334,7 @@ R4*4
 r4 
 r4 
 r32 
-bes8~_\markup{  \fontsize #-4 "21"} 
+bes8~ 
 bes16. 
 r4 
 % Measure 27
@@ -343,26 +343,26 @@ r4
 
 r4 
 r16 
-a8.~_\markup{  \fontsize #-4 "-27"} 
+a8.~ 
 a32 [ 
-<  a  b-\addText #"-37"  >16_\markup{  \fontsize #-4 "1"} 
-b8~_\markup{  \fontsize #-4 "-37"}  ]
+<  a  b>16 
+b8~  ]
 b32~ 
 b4 
 % Measure 28
 
 
 
-a16_\markup{  \fontsize #-4 "41"} 
+a16 
 r8. 
-a8._\markup{  \fontsize #-4 "-14"} [ 
-bes16~_\markup{  \fontsize #-4 "7"}  ]
+a8. [ 
+bes16~  ]
 bes8. [ 
-b16~_\markup{  \fontsize #-4 "35"}  ]
+b16~  ]
 b32 [ 
-bes32_\markup{  \fontsize #-4 "16"}  ]
+bes32  ]
 r8 
-b32_\markup{  \fontsize #-4 "-10"} 
+b32 
 r32 
 % Measure 29
 
@@ -370,7 +370,7 @@ r32
 
 r4 
 r4 
-b2~_\markup{  \fontsize #-4 "-31"} 
+b2~ 
 % Measure 30
 
 
@@ -378,7 +378,7 @@ b2~_\markup{  \fontsize #-4 "-31"}
 b4 
 r4 
 r32 
-ais8..~_\markup{  \fontsize #-4 "8"} 
+ais8..~ 
 ais4 
 % Measure 31
 
@@ -395,7 +395,7 @@ R4*4
 
 
 r4 
-b4_\markup{  \fontsize #-4 "-24"} 
+b4 
 r4 
 r4 
 % Measure 34
@@ -403,9 +403,9 @@ r4
 
 
 r32 
-a8..~_\markup{  \fontsize #-4 "-26"} 
+a8..~ 
 a8. [ 
-<  a~  bes~-\addText #"-9"  >16_\markup{  \fontsize #-4 "-8"}  ]
+<  a~  bes~>16  ]
 <  a  ais >4 
 r4 
 % Measure 35
@@ -415,23 +415,23 @@ r4
 r4 
 r4 
 r16 
-bes8_\markup{  \fontsize #-4 "14"} 
+bes8 
 r16 
 r8 
 r32 
-bes16.~_\markup{  \fontsize #-4 "15"} 
+bes16.~ 
 % Measure 36
 
 
 
 bes32 [ 
-<  a~  bes~-\addText #"-29"  >8.._\markup{  \fontsize #-4 "-35"}  ]
+<  a~  bes~>8..  ]
 <  a  ais >32 [ 
-b32_\markup{  \fontsize #-4 "-26"}  ]
+b32  ]
 r8 
-bes32_\markup{  \fontsize #-4 "34"} 
+bes32 
 r32 
-bes8._\markup{  \fontsize #-4 "-31"} 
+bes8. 
 r16 
 r4 
 % Measure 37
@@ -442,12 +442,12 @@ r4
 \times 2/3 
 {
 
-a4_\markup{  \fontsize #-4 "39"} 
-a2~_\markup{  \fontsize #-4 "-37"} 
+a4 
+a2~ 
 }
 
 a8. [ 
-bes16~_\markup{  \fontsize #-4 "-40"}  ]
+bes16~  ]
 % Measure 38
 
 
@@ -457,19 +457,19 @@ bes4~
 {
 
 bes4 
-b8~_\markup{  \fontsize #-4 "18"} 
+b8~ 
 }
 
 b4 
 r16 
-ais8_\markup{  \fontsize #-4 "-11"} [ 
-ais16~_\markup{  \fontsize #-4 "-11"}  ]
+ais8 [ 
+ais16~  ]
 % Measure 39
 
 
 
 ais4 
-ais8._\markup{  \fontsize #-4 "7"} 
+ais8. 
 r16 
 r4 
 r4 
@@ -482,8 +482,8 @@ R4*4
 
 
 
-a4_\markup{  \fontsize #-4 "27"} 
-a8._\markup{  \fontsize #-4 "-8"} 
+a4 
+a8. 
 r16 
 r4 
 r4 
@@ -494,14 +494,14 @@ r4
 r4 
 r8 
 r32 
-bes16.~_\markup{  \fontsize #-4 "-1"} 
+bes16.~ 
 bes2 
 % Measure 43
 
 
 
 r32 
-a8..~_\markup{  \fontsize #-4 "2"} 
+a8..~ 
 a4 
 r4 
 r4 
@@ -513,18 +513,18 @@ r4
 \times 2/3 
 {
 
-bes4_\markup{  \fontsize #-4 "-48"} 
-a4_\markup{  \fontsize #-4 "43"} 
+bes4 
+a4 
 r4 
 }
 
 r8 
-<  bes  b-\addText #"-15"  >8_\markup{  \fontsize #-4 "-5"} 
+<  bes  b>8 
 % Measure 45
 
 
 
-a8._\markup{  \fontsize #-4 "-17"} 
+a8. 
 r16 
 r4 
 r4 
@@ -552,28 +552,28 @@ R4*4
 
 
 r4 
-b4~_\markup{  \fontsize #-4 "18"} 
+b4~ 
 b32 [ 
-b32_\markup{  \fontsize #-4 "-3"}  ]
+b32  ]
 r8 
-b16~_\markup{  \fontsize #-4 "41"} 
+b16~ 
 b4~ 
 % Measure 51
 
 
 
 b32 [ 
-a8..~_\markup{  \fontsize #-4 "-2"}  ]
+a8..~  ]
 a32 [ 
-b8~_\markup{  \fontsize #-4 "18"}  ]
+b8~  ]
 b32 [ 
-ais16_\markup{  \fontsize #-4 "-16"}  ]
+ais16  ]
 r4 
 \times 2/3 
 {
 
 r4 
-b16_\markup{  \fontsize #-4 "-41"} 
+b16 
 r16 
 }
 
@@ -582,18 +582,18 @@ r16
 
 
 r8. 
-b16~_\markup{  \fontsize #-4 "17"} 
+b16~ 
 b2 
 r8 
 r32 
-a16.~_\markup{  \fontsize #-4 "31"} 
+a16.~ 
 % Measure 53
 
 
 
 a4 
 r8. 
-b16_\markup{  \fontsize #-4 "27"} 
+b16 
 r4 
 r4 
 % Measure 54
@@ -601,35 +601,35 @@ r4
 
 
 r32 
-<  a~  b~-\addText #"6"  >8.._\markup{  \fontsize #-4 "18"} 
+<  a~  b~>8.. 
 <  a  b >32 [ 
-a8._\markup{  \fontsize #-4 "-31"}  ]
+a8.  ]
 r32 
-bes8._\markup{  \fontsize #-4 "40"} [ 
-a16~_\markup{  \fontsize #-4 "-7"}  ]
+bes8. [ 
+a16~  ]
 a32 [ 
-a8_\markup{  \fontsize #-4 "21"} 
-bes16._\markup{  \fontsize #-4 "-19"}  ]
+a8 
+bes16.  ]
 % Measure 55
 
 
 
-<  bes  b-\addText #"12"  >8._\markup{  \fontsize #-4 "-7"} [ 
-b16~_\markup{  \fontsize #-4 "-30"}  ]
+<  bes  b>8. [ 
+b16~  ]
 b32 [ 
-b8_\markup{  \fontsize #-4 "-30"} 
-b16.~_\markup{  \fontsize #-4 "-30"}  ]
+b8 
+b16.~  ]
 b4 
-<  a  b-\addText #"-22"  >8._\markup{  \fontsize #-4 "29"} [ 
-ais16_\markup{  \fontsize #-4 "7"}  ]
+<  a  b>8. [ 
+ais16  ]
 % Measure 56
 
 
 
-a16_\markup{  \fontsize #-4 "9"} 
+a16 
 r8. 
 r4 
-b16_\markup{  \fontsize #-4 "7"} 
+b16 
 r8. 
 r4 
 % Measure 57
@@ -639,20 +639,20 @@ r4
 r4 
 r4 
 r16 
-<  a~  bes~-\addText #"-4"  >8_\markup{  \fontsize #-4 "36"} 
+<  a~  bes~>8 
 <  a  ais >32 [ 
-bes32~_\markup{  \fontsize #-4 "-4"}  ]
+bes32~  ]
 bes4 
 % Measure 58
 
 
 
-bes16_\markup{  \fontsize #-4 "-48"} 
+bes16 
 r8. 
 r4 
-b8_\markup{  \fontsize #-4 "21"} 
+b8 
 r8 
-a4_\markup{  \fontsize #-4 "-35"} 
+a4 
 % Measure 59
 
 
@@ -664,30 +664,30 @@ R4*4
 
 r4 
 r4 
-b2_\markup{  \fontsize #-4 "-47"} 
+b2 
 % Measure 61
 
 
 
 r4 
-ais4_\markup{  \fontsize #-4 "-7"} 
-<  a~  b~-\addText #"0"  >4_\markup{  \fontsize #-4 "-36"} 
+ais4 
+<  a~  b~>4 
 <  a  b >8 
 r32 
-a16._\markup{  \fontsize #-4 "-23"} 
+a16. 
 % Measure 62
 
 
 
-a2_\markup{  \fontsize #-4 "20"} 
-bes16_\markup{  \fontsize #-4 "-43"} 
+a2 
+bes16 
 r8 
-bes16~_\markup{  \fontsize #-4 "-7"} 
+bes16~ 
 \times 2/3 
 {
 
 bes4 
-b8~_\markup{  \fontsize #-4 "41"} 
+b8~ 
 }
 
 % Measure 63
@@ -700,7 +700,7 @@ r4
 {
 
 r4 
-b8~_\markup{  \fontsize #-4 "46"} 
+b8~ 
 }
 
 % Measure 64
@@ -711,8 +711,8 @@ b2.
 \times 2/3 
 {
 
-b4_\markup{  \fontsize #-4 "28"} 
-b8~_\markup{  \fontsize #-4 "-28"} 
+b4 
+b8~ 
 }
 
 % Measure 65
@@ -720,15 +720,15 @@ b8~_\markup{  \fontsize #-4 "-28"}
 
 
 b32 [ 
-ais8.._\markup{  \fontsize #-4 "13"}  ]
-a8._\markup{  \fontsize #-4 "49"} 
+ais8..  ]
+a8. 
 r16 
 r4 
 \times 2/3 
 {
 
 r4 
-bes8~_\markup{  \fontsize #-4 "26"} 
+bes8~ 
 }
 
 % Measure 66
@@ -738,22 +738,22 @@ bes8~_\markup{  \fontsize #-4 "26"}
 bes4~ 
 bes8~ 
 bes32 [ 
-a32_\markup{  \fontsize #-4 "22"}  ]
+a32  ]
 r32 
-bes32~_\markup{  \fontsize #-4 "1"} 
+bes32~ 
 bes4 
 \times 4/5 
 {
 
-bes8._\markup{  \fontsize #-4 "-25"} [ 
-b8_\markup{  \fontsize #-4 "-29"}  ]
+bes8. [ 
+b8  ]
 }
 
 % Measure 67
 
 
 
-<  a  bes-\addText #"46"  >2_\markup{  \fontsize #-4 "31"} 
+<  a  bes>2 
 r4 
 r4 
 % Measure 68
@@ -770,7 +770,7 @@ r4
 {
 
 r4 
-b8~_\markup{  \fontsize #-4 "-28"} 
+b8~ 
 }
 
 b4 
@@ -781,16 +781,16 @@ r4
 
 r4 
 r8. 
-ais16_\markup{  \fontsize #-4 "41"} 
-ais8._\markup{  \fontsize #-4 "-29"} 
+ais16 
+ais8. 
 r16 
 r8 
-ais8_\markup{  \fontsize #-4 "-11"} 
+ais8 
 % Measure 71
 
 
 
-a16_\markup{  \fontsize #-4 "10"} 
+a16 
 r8. 
 r4 
 r4 
@@ -800,8 +800,8 @@ r4
 
 
 r4
-b8_\markup{  \fontsize #-4 "29"} [ 
-bes16_\markup{  \fontsize #-4 "21"}  ]
+b8 [ 
+bes16  ]
 r16 
 r4 
 r4 
@@ -826,12 +826,12 @@ R4*4
 
 r4 
 r32 
-b8..~_\markup{  \fontsize #-4 "-18"} 
+b8..~ 
 \times 2/3 
 {
 
 b4 
-b8~_\markup{  \fontsize #-4 "31"} 
+b8~ 
 }
 
 b4~ 
@@ -840,17 +840,17 @@ b4~
 
 
 b16. [ 
-b8~_\markup{  \fontsize #-4 "38"}  ]
+b8~  ]
 b32~ 
 b32 [ 
-b8..~_\markup{  \fontsize #-4 "38"}  ]
+b8..~  ]
 b4 
 \times 2/3 
 {
 
 r4 
 r16 
-a16_\markup{  \fontsize #-4 "-23"} 
+a16 
 }
 
 % Measure 78
