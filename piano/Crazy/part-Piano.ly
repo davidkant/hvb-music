@@ -1,5 +1,5 @@
 \version "2.10.0"
-#(set-default-paper-size "letter" 'landscape)
+#(set-default-paper-size "letter" 'portrait)
 #(set-global-staff-size 16)
 \include "staff-Voice.ly"
 \include "staff-Piano.ly"
@@ -16,9 +16,9 @@
 	markup-system-spacing #'padding = #5
 	markup-system-spacing #'stretchability = #1
 
-	system-system-spacing #'basic-distance = #40
-	system-system-spacing #'minimum-distance = #25
-	system-system-spacing #'padding = #10
+	system-system-spacing #'basic-distance = #16
+	system-system-spacing #'minimum-distance = #12
+	system-system-spacing #'padding = #6
 	system-system-spacing #'stretchability = #1
 	ragged-bottom = ##f			%spread systems vertically (##f)
 	ragged-last = ##f			%spread last system  horizontally (##f)
