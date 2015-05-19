@@ -1,5 +1,5 @@
 \version "2.14.2"
-#(set-default-paper-size "letter" 'landscape)
+#(set-default-paper-size "letter" 'portrait)
 
 %addText definition
 addText = #(define-music-function (parser location string-text) (string?)
@@ -27,13 +27,13 @@ addText = #(define-music-function (parser location string-text) (string?)
 	markup-system-spacing #'padding = #5
 	markup-system-spacing #'stretchability = #1
 
-	system-system-spacing #'basic-distance = #30
-	system-system-spacing #'minimum-distance = #10
-	system-system-spacing #'padding = #10
+	system-system-spacing #'basic-distance = #16
+	system-system-spacing #'minimum-distance = #8
+	system-system-spacing #'padding = #6
 	system-system-spacing #'stretchability = #1
 
-	max-systems-per-page = #4
-	min-systems-per-page = #4
+	% max-systems-per-page = #4
+	% min-systems-per-page = #4
 
 	ragged-bottom = ##f			%spread systems vertically (##f)
 	ragged-last = ##f			%spread last system  horizontally (##f)

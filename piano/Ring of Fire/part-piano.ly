@@ -1,6 +1,6 @@
 \version "2.14.2"
 
-#(set-default-paper-size "letter" 'landscape)
+#(set-default-paper-size "letter" 'portrait)
 #(set-global-staff-size 17)
 
 \include "staff-voice.ly"
@@ -22,13 +22,13 @@
 	markup-system-spacing #'padding = #5
 	markup-system-spacing #'stretchability = #1
 
-	system-system-spacing #'basic-distance = #30
+	system-system-spacing #'basic-distance = #16
 	system-system-spacing #'minimum-distance = #10
-	system-system-spacing #'padding = #10
+	system-system-spacing #'padding = #6
 	system-system-spacing #'stretchability = #1
 
-	max-systems-per-page = #3
-	min-systems-per-page = #3
+	% max-systems-per-page = #3
+	% min-systems-per-page = #3
 
 	ragged-bottom = ##f			%spread systems vertically (##f)
 	ragged-last = ##f			%spread last system  horizontally (##f)

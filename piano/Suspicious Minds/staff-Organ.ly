@@ -130,10 +130,9 @@ R4*4
 
 
 
-r4 
-r4 
+r2
 r8 
-<  ais'~  c''~-\addText #"14"   g''~-\addText #"-38"  >8_\markup{  \fontsize #-4 "12"}\f 
+<  ais'~  c''~ g''~>8\f 
 <  ais'  c''  g'' >4 
 % Measure 20
 
@@ -142,20 +141,20 @@ r8
 \times 4/7 
 {
 
-<  d'  e'-\addText #"48"   c''-\addText #"24"   a''-\addText #"-8"   bes''-\addText #"-13"   bes'''-\addText #"-4"  >8_\markup{  \fontsize #-4 "-26"} [ 
-<  des''  d''-\addText #"45"   b''-\addText #"-32"  >8_\markup{  \fontsize #-4 "18"} 
-<  des'~  b'~-\addText #"12"   gis''~-\addText #"-1"  >8._\markup{  \fontsize #-4 "-33"}  ]
+<  d'  e' c'' a'' bes'' bes'''>8  
+<  des''  d'' b''>8 
+<  des'~  b'~ gis''~>8.  
 }
 
-<  des'  b'  aes'' >8. [ 
-<  f'~  aes'~-\addText #"37"   g''~-\addText #"-3"  >16_\markup{  \fontsize #-4 "-28"}  ]
+<  des'  b'  aes'' >8.  
+<  f'~  aes'~ g''~>16  
 <  f'  gis'  g'' >4 
 \times 2/3 
 {
 
-<  a  ees'-\addText #"-35"   g'-\addText #"-44"  >8._\markup{  \fontsize #-4 "-9"} [ 
-<  b  a'-\addText #"-36"   d''-\addText #"32"  >8_\markup{  \fontsize #-4 "-29"} 
-<  c'  des''-\addText #"20"   des'''-\addText #"5"  >16_\markup{  \fontsize #-4 "-36"}  ]
+<  a  ees' g'>8.  
+<  b  a' d''>8 
+<  c'  des'' des'''>16  
 }
 
 % Measure 21
@@ -165,49 +164,49 @@ r8
 \times 4/5 
 {
 
-<  d'  b'-\addText #"37"   d''-\addText #"-13"  >8._\markup{  \fontsize #-4 "40"} [ 
-<  a~  bes~-\addText #"-29"   c'~-\addText #"40"  >8_\markup{  \fontsize #-4 "26"}  ]
+<  d'  b' d''>8.  
+<  a~  bes~ c'~>8  
 }
 
 \times 4/7 
 {
 
-<  a  ais  c' >16 [ 
-<  a'  b'-\addText #"45"   d''-\addText #"23"  >8._\markup{  \fontsize #-4 "-18"} 
-<  f''  d'''-\addText #"0"   d''''-\addText #"2"  >16_\markup{  \fontsize #-4 "-28"} 
-<  c'  ees'-\addText #"8"   g'-\addText #"8"  >8_\markup{  \fontsize #-4 "3"}  ]
+<  a  ais  c' >16  
+<  a'  b' d''>8. 
+<  f''  d''' d''''>16 
+<  c'  ees' g'>8  
 }
 
 \times 4/7 
 {
 
-<  bes  d'''-\addText #"1"   d''''-\addText #"18"  >16_\markup{  \fontsize #-4 "17"} [ 
-<  d'  ees'-\addText #"23"   ges''-\addText #"-4"  >8._\markup{  \fontsize #-4 "-26"} 
-<  bes  f'-\addText #"-30"   d''-\addText #"0"  >8_\markup{  \fontsize #-4 "-2"} 
-<  f'~  bes'~-\addText #"22"   des''~-\addText #"26"  >16_\markup{  \fontsize #-4 "-48"}  ]
+<  bes  d''' d''''>16  
+<  d'  ees' ges''>8. 
+<  bes  f' d''>8 
+<  f'~  bes'~ des''~>16  
 }
 
 \times 4/5 
 {
 
-<  f'  ais'  cis'' >8 [ 
-<  bes  d''-\addText #"-3"   d'''-\addText #"15"  >16_\markup{  \fontsize #-4 "20"} 
-<  c'~  e'~-\addText #"39"   d''~-\addText #"4"  >8_\markup{  \fontsize #-4 "21"}  ]
+<  f'  ais'  cis'' >8  
+<  bes  d'' d'''>16 
+<  c'~  e'~ d''~>8  
 }
 
 % Measure 22
 
 
 
-<  c'  e'  d'' >16. [ 
-<  cis'  g'-\addText #"-23"   ees''-\addText #"25"  >16._\markup{  \fontsize #-4 "46"} 
-<  d'~  g'~-\addText #"-8"   c''~-\addText #"-23"  >16_\markup{  \fontsize #-4 "-9"}  ]
-<  d'  g'  c'' >8 [ 
-<  c'  d'-\addText #"-36"   cis''-\addText #"26"  >8_\markup{  \fontsize #-4 "-30"}  ]
-<  b  c'-\addText #"48"   g'''-\addText #"-34"  >16_\markup{  \fontsize #-4 "8"} [ 
-<  c'~  ees'~-\addText #"-27"   d''~-\addText #"17"  >8._\markup{  \fontsize #-4 "34"}  ]
-<  c'  dis'  d'' >16. [ 
-<  cis'~  f'~-\addText #"-27"   g''~-\addText #"38"  >8_\markup{  \fontsize #-4 "36"}  ]
+<  c'  e'  d'' >16.  
+<  cis'  g' ees''>16. 
+<  d'~  g'~ c''~>16  
+<  d'  g'  c'' >8  
+<  c'  d' cis''>8  
+<  b  c' g'''>16  
+<  c'~  ees'~ d''~>8.  
+<  c'  dis'  d'' >16.  
+<  cis'~  f'~ g''~>8  
 <  cis'  f'  g'' >32 
 % Measure 23
 
@@ -216,18 +215,18 @@ r8
 \times 2/3 
 {
 
-<  d'  a'-\addText #"34"   fis''-\addText #"22"  >16_\markup{  \fontsize #-4 "16"} [ 
-<  f'  g''-\addText #"-2"  >8._\markup{  \fontsize #-4 "40"} 
-<  des'~  ees''~-\addText #"-48"   ges''~-\addText #"27"  >8_\markup{  \fontsize #-4 "29"}  ]
+<  d'  a' fis''>16  
+<  f'  g''>8. 
+<  des'~  ees''~ ges''~>8  
 }
 
-<  des'  ees''  ges'' >16 [ 
-<  a'  fis''-\addText #"28"   g''-\addText #"34"  >8_\markup{  \fontsize #-4 "23"} 
-<  bes  des''-\addText #"-49"   g''-\addText #"-1"  >16_\markup{  \fontsize #-4 "-1"}  ]
+<  des'  ees''  ges'' >16  
+<  a'  fis'' g''>8 
+<  bes  des'' g''>16  
 r16 
-<  ees''~  g''~-\addText #"5"   d'''~-\addText #"11"  >8._\markup{  \fontsize #-4 "11"} 
-<  ees''  g''  d''' >8. [ 
-<  b  g''-\addText #"-32"   bes''-\addText #"11"  >16_\markup{  \fontsize #-4 "23"}  ]
+<  ees''~  g''~ d'''~>8. 
+<  ees''  g''  d''' >8.  
+<  b  g'' bes''>16  
 % Measure 24
 
 
@@ -235,35 +234,35 @@ r16
 \times 4/5 
 {
 
-<  des''  g''-\addText #"-1"   g'''-\addText #"-21"  >8_\markup{  \fontsize #-4 "-49"} [ 
+<  des''  g'' g'''>8  
 r16 
-<  bes  des'-\addText #"-49"   ees'-\addText #"9"  >8_\markup{  \fontsize #-4 "-7"}  ]
+<  bes  des' ees'>8  
 }
 
 r8 
-<  d'  ees'-\addText #"2"   a'-\addText #"19"  >16._\markup{  \fontsize #-4 "-28"} [ 
-<  f'~  c''~-\addText #"-41"   d''~-\addText #"-23"  >32_\markup{  \fontsize #-4 "36"}  ]
+<  d'  ees' a'>16.  
+<  f'~  c''~ d''~>32  
 <  f'~  c''~  d''~ >4 
-<  f'  c''  d'' >16. [ 
-<  d'~  f'~-\addText #"-36"   ges''~-\addText #"-36"  >8_\markup{  \fontsize #-4 "18"}  ]
+<  f'  c''  d'' >16.  
+<  d'~  f'~ ges''~>8  
 <  d'  f'  fis'' >32 
 % Measure 25
 
 
 
-<  a  fis''-\addText #"31"  >8._\markup{  \fontsize #-4 "-20"} 
+<  a  fis''>8. 
 r16 
-<  d'  c''-\addText #"47"   g''-\addText #"42"  >8_\markup{  \fontsize #-4 "-1"} [ 
-<  f'  g'-\addText #"-22"   f'''-\addText #"-45"  >16_\markup{  \fontsize #-4 "-46"} 
-<  d'~  g'~-\addText #"-22"   g''~-\addText #"16"  >16_\markup{  \fontsize #-4 "23"}  ]
-<  d'  g'  g'' >16 [ 
-<  aes'~  bes'~-\addText #"7"   e''~-\addText #"45"  >8._\markup{  \fontsize #-4 "-24"}  ]
+<  d'  c'' g''>8  
+<  f'  g' f'''>16 
+<  d'~  g'~ g''~>16  
+<  d'  g'  g'' >16  
+<  aes'~  bes'~ e''~>8.  
 \times 2/3 
 {
 
 <  aes'~  bes'~  e''~ >4 
 <  aes'  bes'  e'' >16 
-<  g'~  g''~-\addText #"-41"   bes''~-\addText #"6"  >16_\markup{  \fontsize #-4 "49"} 
+<  g'~  g''~ bes''~>16 
 }
 
 % Measure 26
@@ -271,21 +270,21 @@ r16
 
 
 <  g'~  g''~  ais''~ >4 
-<  g'  g''  ais'' >8. [ 
-<  d'  ees'-\addText #"39"   g''-\addText #"-38"  >16_\markup{  \fontsize #-4 "10"}  ]
+<  g'  g''  ais'' >8.  
+<  d'  ees' g''>16  
 \times 2/3 
 {
 
-<  des'  d'-\addText #"-18"   fis''-\addText #"-11"  >8._\markup{  \fontsize #-4 "-18"} [ 
-<  d'  f'-\addText #"47"   a'-\addText #"14"  >16_\markup{  \fontsize #-4 "-40"} 
-<  d'~  b'~-\addText #"-18"   fis''~-\addText #"-41"  >8_\markup{  \fontsize #-4 "-4"}  ]
+<  des'  d' fis''>8.  
+<  d'  f' a'>16 
+<  d'~  b'~ fis''~>8  
 }
 
 \times 2/3 
 {
 
 <  d'  b'  fis'' >4 
-<  cis'~  b'~-\addText #"-15"   fis''~-\addText #"-10"  >8_\markup{  \fontsize #-4 "-19"} 
+<  cis'~  b'~ fis''~>8 
 }
 
 % Measure 27
@@ -296,15 +295,15 @@ r16
 {
 
 <  cis'  b'  fis'' >4\mp
-<  f'~  b'~-\addText #"-24"   fis''~-\addText #"46"  >8_\markup{  \fontsize #-4 "49"} 
+<  f'~  b'~ fis''~>8 
 }
 
-<  f'  b'  fis'' >16. [ 
-<  ais'~  g''~-\addText #"-5"   b''~-\addText #"-8"  >8_\markup{  \fontsize #-4 "8"}  ]
+<  f'  b'  fis'' >16.  
+<  ais'~  g''~ b''~>8  
 <  ais'~  g''~  b''~ >32 
-<  ais'  g''  b'' >16. [ 
-<  g'  bes'-\addText #"8"   b''-\addText #"-8"  >16_\markup{  \fontsize #-4 "0"} 
-<  d'~  a'~-\addText #"42"   g''~-\addText #"-12"  >16._\markup{  \fontsize #-4 "-37"}  ]
+<  ais'  g''  b'' >16.  
+<  g'  bes' b''>16 
+<  d'~  a'~ g''~>16.  
 <  d'~  a'~  g''~ >4 
 % Measure 28
 
@@ -324,7 +323,7 @@ r16
 {
 
 <  d'  a'  g'' >8 
-<  fis'~  c''~-\addText #"19"   g''~-\addText #"0"  >4_\markup{  \fontsize #-4 "16"} 
+<  fis'~  c''~ g''~>4 
 }
 
 <  fis'  c''  g'' >2 
@@ -335,158 +334,154 @@ r4
 
 r4 
 r16. 
-<  g'~  d''~-\addText #"-21"   a''~-\addText #"13"  >8_\markup{  \fontsize #-4 "-38"} 
+<  g'~  d''~ a''~>8 
 <  g'~  d''~  a''~ >32 
 <  g'  d''  a'' >4 
-<  bes  d''-\addText #"-6"   a''-\addText #"8"  >16_\markup{  \fontsize #-4 "-28"} [ 
-<  d''~  aes''~-\addText #"0"   d'''~-\addText #"20"  >8._\markup{  \fontsize #-4 "-8"}  ]
+<  bes  d'' a''>16  
+<  d''~  aes''~ d'''~>8.  
 % Measure 32
 
 
 
-<  d''  gis''  d''' >16. [ 
-<  c'  f'-\addText #"-37"   g''-\addText #"24"  >16._\markup{  \fontsize #-4 "-36"} 
-<  f'~  c''~-\addText #"-28"   g''~-\addText #"27"  >16_\markup{  \fontsize #-4 "-37"}  ]
+<  d''  gis''  d''' >16.  
+<  c'  f' g''>16. 
+<  f'~  c''~ g''~>16  
 <  f'~  c''~  g''~ >4 
-<  f'  c''  g'' >8 [ 
-<  b  fis'-\addText #"31"   c''-\addText #"4"  >16_\markup{  \fontsize #-4 "-21"} 
-<  c'  g'-\addText #"-40"   c''-\addText #"-9"  >16_\markup{  \fontsize #-4 "-29"}  ]
-<  des'  f'-\addText #"-9"   g'-\addText #"-40"  >8_\markup{  \fontsize #-4 "7"} [ 
-<  b~  dis''~-\addText #"35"   g''~-\addText #"18"  >8_\markup{  \fontsize #-4 "-7"}  ]
+<  f'  c''  g'' >8  
+<  b  fis' c''>16 
+<  c'  g' c''>16  
+<  des'  f' g'>8  
+<  b~  dis''~ g''~>8  
 % Measure 33
 
 
 
-<  b  dis''  g'' >32 [ 
-<  b  g'-\addText #"-33"   c''-\addText #"43"  >16_\markup{  \fontsize #-4 "-7"} 
-<  b~  g'~-\addText #"-36"  >8_\markup{  \fontsize #-4 "-7"}  ]
+<  b  dis''  g'' >32  
+<  b  g' c''>16 
+<  b~  g'~>8  
 <  b~  g'~ >32 
-<  b  g' >16 [ 
-<  des'  ges'-\addText #"33"   bes'-\addText #"-3"  >16._\markup{  \fontsize #-4 "-49"} 
-<  e'~  fis'~-\addText #"33"   ais'~-\addText #"-3"  >16._\markup{  \fontsize #-4 "29"}  ]
-<  e'  fis'  ais' >16 [ 
-<  c'~  g'~-\addText #"9"   b'~-\addText #"-10"  >8._\markup{  \fontsize #-4 "44"}  ]
-<  c'  g'  b' >16 [ 
-<  d'~  ees'~-\addText #"-14"   g''~-\addText #"38"  >8._\markup{  \fontsize #-4 "-18"}  ]
+<  b  g' >16  
+<  des'  ges' bes'>16. 
+<  e'~  fis'~ ais'~>16.  
+<  e'  fis'  ais' >16  
+<  c'~  g'~ b'~>8.  
+<  c'  g'  b' >16  
+<  d'~  ees'~ g''~>8.  
 % Measure 34
 
 
 
 <  d'  dis'  g'' >4 
-r4 
-r4 
-r4 
+r2.
 % Measure 35
 
 
 
 r32 
-<  des'  d'-\addText #"-18"   f'-\addText #"-2"  >8.._\markup{  \fontsize #-4 "10"} 
+<  des'  d' f'>8.. 
 \times 4/5 
 {
 
-<  c'  ees'-\addText #"-13"   g'''-\addText #"-25"  >8._\markup{  \fontsize #-4 "-32"} [ 
-<  g'  fis''-\addText #"44"   b''-\addText #"-4"  >8_\markup{  \fontsize #-4 "5"}  ]
+<  c'  ees' g'''>8.  
+<  g'  fis'' b''>8  
 }
 
 \times 4/5 
 {
 
-<  d'  b'-\addText #"-22"   d''-\addText #"1"  >4_\markup{  \fontsize #-4 "5"} 
-<  e'~  b'~-\addText #"-43"   g''~-\addText #"8"  >4._\markup{  \fontsize #-4 "46"} 
+<  d'  b' d''>4 
+<  e'~  b'~ g''~>4. 
 }
 
 % Measure 36
 
 
 
-<  e'  b'  g'' >16. [ 
-<  e'  gis'-\addText #"-2"   cis''-\addText #"1"  >8_\markup{  \fontsize #-4 "11"} 
-<  c'~  d''~-\addText #"-23"   b''~-\addText #"-36"  >32_\markup{  \fontsize #-4 "-15"}  ]
+<  e'  b'  g'' >16.  
+<  e'  gis' cis''>8 
+<  c'~  d''~ b''~>32  
 \times 2/3 
 {
 
-<  c'  d''  b'' >8. [ 
-<  a  c'-\addText #"3"   b'-\addText #"-14"  >8._\markup{  \fontsize #-4 "-26"}  ]
+<  c'  d''  b'' >8.  
+<  a  c' b'>8.  
 }
 
 \times 4/5 
 {
 
-<  g'  fis''-\addText #"30"   b''-\addText #"-39"  >8._\markup{  \fontsize #-4 "-38"} [ 
-<  a~  e'~-\addText #"5"   d''~-\addText #"-24"  >8_\markup{  \fontsize #-4 "-29"}  ]
+<  g'  fis'' b''>8.  
+<  a~  e'~ d''~>8  
 }
 
-<  a  e'  d'' >8 [ 
-<  a~  c'~-\addText #"-42"   d''~-\addText #"9"  >8_\markup{  \fontsize #-4 "33"}  ]
+<  a  e'  d'' >8  
+<  a~  c'~ d''~>8  
 % Measure 37
 
 
 
-<  a  c'  d'' >8. [ 
-<  cis'~  g'~-\addText #"23"   b''~-\addText #"43"  >16_\markup{  \fontsize #-4 "11"}  ]
-<  cis'  g'  b'' >8 [ 
-<  fis'~  b'~-\addText #"33"   e''~-\addText #"3"  >8_\markup{  \fontsize #-4 "21"}  ]
-<  fis'  b'  e'' >16. [ 
-<  bes  ges'-\addText #"23"   a'-\addText #"-12"  >8_\markup{  \fontsize #-4 "43"} 
-<  b~  g'~-\addText #"1"   g'''~-\addText #"3"  >32_\markup{  \fontsize #-4 "-29"}  ]
+<  a  c'  d'' >8.  
+<  cis'~  g'~ b''~>16  
+<  cis'  g'  b'' >8  
+<  fis'~  b'~ e''~>8  
+<  fis'  b'  e'' >16.  
+<  bes  ges' a'>8 
+<  b~  g'~ g'''~>32  
 \times 4/5 
 {
 
-<  b  g'  g''' >8 [ 
-<  e'  bes'-\addText #"36"   c''-\addText #"-27"  >16_\markup{  \fontsize #-4 "-24"} 
-<  e'~  g'~-\addText #"7"   b''~-\addText #"-9"  >8_\markup{  \fontsize #-4 "-28"}  ]
+<  b  g'  g''' >8  
+<  e'  bes' c''>16 
+<  e'~  g'~ b''~>8  
 }
 
 % Measure 38
 
 
 
-<  e'  g'  b'' >8 [ 
-<  c'  e'-\addText #"10"   g''-\addText #"-15"  >8_\markup{  \fontsize #-4 "35"}  ]
+<  e'  g'  b'' >8  
+<  c'  e' g''>8  
 r16 
-<  bes  f'-\addText #"38"   g'-\addText #"-40"  >16._\markup{  \fontsize #-4 "-2"} 
+<  bes  f' g'>16. 
 r16. 
-r4 
-r4 
+r2
 % Measure 39
 
 
 
-<  b  f'-\addText #"38"   e''-\addText #"-48"  >8_\markup{  \fontsize #-4 "29"} [ 
-<  bes  a'-\addText #"22"   a''-\addText #"-17"  >16_\markup{  \fontsize #-4 "29"} 
-<  bes~  a'~-\addText #"22"   a''~-\addText #"-17"  >16_\markup{  \fontsize #-4 "29"}  ]
-<  bes  a'  a'' >32 [ 
-<  e'  fis'-\addText #"-10"   d''-\addText #"-21"  >8.._\markup{  \fontsize #-4 "-6"}  ]
-<  f'~  a'~-\addText #"-28"   d''~-\addText #"-15"  >4_\markup{  \fontsize #-4 "10"} 
-<  f'  a'  d'' >8 [ 
-<  e'~  fis'~-\addText #"1"   d''~-\addText #"-19"  >8_\markup{  \fontsize #-4 "-8"}  ]
+<  b  f' e''>8  
+<  bes  a' a''>16 
+<  bes~  a'~ a''~>16  
+<  bes  a'  a'' >32  
+<  e'  fis' d''>8..  
+<  f'~  a'~ d''~>4 
+<  f'  a'  d'' >8  
+<  e'~  fis'~ d''~>8  
 % Measure 40
 
 
 
-<  e'  fis'  d'' >8 [ 
-<  c'~  g'~-\addText #"35"   d'''~-\addText #"-30"  >8_\markup{  \fontsize #-4 "-48"}  ]
-<  c'  g'  d''' >16. [ 
-<  b~  c''~-\addText #"1"   e''~-\addText #"-3"  >8_\markup{  \fontsize #-4 "-36"}  ]
+<  e'  fis'  d'' >8  
+<  c'~  g'~ d'''~>8  
+<  c'  g'  d''' >16.  
+<  b~  c''~ e''~>8  
 <  b~  c''~  e''~ >32 
 <  b~  c''~  e''~ >4 
-<  b  c''  e'' >32 [ 
-<  g'  c''-\addText #"40"   e''-\addText #"3"  >16._\markup{  \fontsize #-4 "36"} 
-<  b  g''-\addText #"6"   c'''-\addText #"16"  >16_\markup{  \fontsize #-4 "-42"} 
-<  a  f'-\addText #"-37"   g''-\addText #"-14"  >16_\markup{  \fontsize #-4 "19"}  ]
+<  b  c''  e'' >32  
+<  g'  c'' e''>16. 
+<  b  g'' c'''>16 
+<  a  f' g''>16  
 % Measure 41
 
 
 
-r4 
-r4 
+r2
 \times 2/3 
 {
 
-<  b  a'-\addText #"-47"   b''-\addText #"-34"  >8_\markup{  \fontsize #-4 "-6"} [ 
-<  b  a'-\addText #"-47"   b''-\addText #"-34"  >8_\markup{  \fontsize #-4 "-6"} 
-<  d'  e'-\addText #"-19"   c''-\addText #"-29"   d'''-\addText #"-13"  >8_\markup{  \fontsize #-4 "-6"}  ]
+<  b  a' b''>8  
+<  b  a' b''>8 
+<  d'  e' c'' d'''>8  
 }
 
 r4 
@@ -497,16 +492,16 @@ r4
 \times 4/5 
 {
 
-<  g'  d''-\addText #"-33"   a''-\addText #"7"  >8._\markup{  \fontsize #-4 "12"} [ 
-<  cis'~  e''~-\addText #"15"   b''~-\addText #"25"  >8_\markup{  \fontsize #-4 "-2"}  ]
+<  g'  d'' a''>8.  
+<  cis'~  e''~ b''~>8  
 }
 
-<  cis'  e''  b'' >8 [ 
-<  d''~  a''~-\addText #"5"   e'''~-\addText #"2"  >8_\markup{  \fontsize #-4 "-1"}  ]
-<  d''  a''  e''' >8 [\<
-<  c''~  d''~-\addText #"40"   d'''~-\addText #"36"  >8_\markup{  \fontsize #-4 "-36"}  ]
-<  c''  d''  d''' >16. [ 
-<  a~  ees'~-\addText #"5"   des'''~-\addText #"45"  >8_\markup{  \fontsize #-4 "19"}  ]
+<  cis'  e''  b'' >8  
+<  d''~  a''~ e'''~>8  
+<  d''  a''  e''' >8 \<
+<  c''~  d''~ d'''~>8  
+<  c''  d''  d''' >16.  
+<  a~  ees'~ des'''~>8  
 <  a  dis'  cis''' >32 
 % Measure 43
 
@@ -515,47 +510,47 @@ r4
 \times 4/5 
 {
 
-<  a  c'-\addText #"5"   g'-\addText #"-3"  >8_\markup{  \fontsize #-4 "19"} [\f
-<  d''  d'''-\addText #"11"   c''''-\addText #"13"  >8._\markup{  \fontsize #-4 "12"}  ]
+<  a  c' g'>8 \f
+<  d''  d''' c''''>8.  
 }
 
 \times 2/3 
 {
 
-r8. [ 
-<  aes'  c''-\addText #"17"   g''-\addText #"6"  >8_\markup{  \fontsize #-4 "39"} 
-<  d'~  fis''~-\addText #"15"   c''''~-\addText #"27"  >16_\markup{  \fontsize #-4 "4"}  ]
+r8.  
+<  aes'  c'' g''>8 
+<  d'~  fis''~ c''''~>16  
 }
 
 \times 2/3 
 {
 
-<  d'  fis''  c'''' >16 [ 
-<  ges'  c''-\addText #"-31"   a''-\addText #"-31"  >8_\markup{  \fontsize #-4 "-16"} 
-<  cis'  gis'-\addText #"-14"   a''-\addText #"-35"  >8._\markup{  \fontsize #-4 "-16"}  ]
+<  d'  fis''  c'''' >16  
+<  ges'  c'' a''>8 
+<  cis'  gis' a''>8.  
 }
 
 \times 4/5 
 {
 
-<  a'  ees''-\addText #"-46"   e''-\addText #"3"  >8._\markup{  \fontsize #-4 "-41"} [ 
-<  d'~  aes'~-\addText #"-15"   b''~-\addText #"-16"  >8_\markup{  \fontsize #-4 "-1"}  ]
+<  a'  ees'' e''>8.  
+<  d'~  aes'~ b''~>8  
 }
 
 % Measure 44
 
 
 
-<  d'  gis'  b'' >16 [ 
-<  dis'~  f'~-\addText #"-26"   g''~-\addText #"-22"  >8._\markup{  \fontsize #-4 "15"}  ]
-<  dis'  f'  g'' >8.. [ 
-<  f'  aes''-\addText #"-26"   b''-\addText #"-5"  >32_\markup{  \fontsize #-4 "33"}  ]
-<  f'  e''-\addText #"-38"   g''-\addText #"-24"  >4_\markup{  \fontsize #-4 "-22"} 
+<  d'  gis'  b'' >16  
+<  dis'~  f'~ g''~>8.  
+<  dis'  f'  g'' >8..  
+<  f'  aes'' b''>32  
+<  f'  e'' g''>4 
 \times 2/3 
 {
 
 r16 
-<  a'~  b'~-\addText #"23"   d''~-\addText #"-13"  >4_\markup{  \fontsize #-4 "-23"} 
+<  a'~  b'~ d''~>4 
 <  a'  b'  d'' >16 
 }
 
@@ -566,15 +561,15 @@ r16
 \times 4/5 
 {
 
-<  e'  f'-\addText #"28"   g'-\addText #"20"   des''-\addText #"46"   ees''-\addText #"26"  >8._\markup{  \fontsize #-4 "9"} [ 
-<  bes  ees'-\addText #"36"   g'-\addText #"17"  >16_\markup{  \fontsize #-4 "43"} 
-r16  ]
+<  e'  f' g' des'' ees''>8.  
+<  bes  ees' g'>16 
+r16  
 }
 
-<  b  c'-\addText #"47"   d''-\addText #"7"  >4_\markup{  \fontsize #-4 "39"} 
-<  ges'  bes'-\addText #"10"   ges''-\addText #"14"  >16._\markup{  \fontsize #-4 "26"} [ 
-<  bes  des''-\addText #"-13"   f''-\addText #"34"  >16._\markup{  \fontsize #-4 "18"} 
-<  e'~  f'~-\addText #"-44"   d''~-\addText #"16"  >16_\markup{  \fontsize #-4 "-3"}  ]
+<  b  c' d''>4 
+<  ges'  bes' ges''>16.  
+<  bes  des'' f''>16. 
+<  e'~  f'~ d''~>16  
 <  e'~  f'~  d''~ >4 
 % Measure 46
 
@@ -584,28 +579,28 @@ r16  ]
 {
 
 <  e'  f'  d'' >8 
-<  b'  e''-\addText #"-11"  >4_\markup{  \fontsize #-4 "-47"} 
+<  b'  e''>4 
 }
 
 \times 2/3 
 {
 
 r16 
-<  gis'~  c''~-\addText #"37"   c'''~-\addText #"-24"  >4_\markup{  \fontsize #-4 "-30"} 
+<  gis'~  c''~ c'''~>4 
 <  gis'~  c''~  c'''~ >16 
 }
 
-<  gis'  c''  c''' >32 [ 
-<  b  c''-\addText #"47"   e''-\addText #"4"  >16._\markup{  \fontsize #-4 "31"} 
-<  bes  c'-\addText #"-10"   e'-\addText #"-31"  >16_\markup{  \fontsize #-4 "-37"} 
-<  gis'  fis''-\addText #"8"   ais''-\addText #"-22"  >16_\markup{  \fontsize #-4 "16"}  ]
+<  gis'  c''  c''' >32  
+<  b  c'' e''>16. 
+<  bes  c' e'>16 
+<  gis'  fis'' ais''>16  
 \times 4/5 
 {
 
-<  g'  b'-\addText #"0"   a''-\addText #"46"  >8_\markup{  \fontsize #-4 "-37"} [ 
-<  bes  c'-\addText #"16"  >16_\markup{  \fontsize #-4 "-27"} 
-<  c'  e'-\addText #"5"   gis'''-\addText #"21"  >16_\markup{  \fontsize #-4 "-16"} 
-<  c'~  d'~-\addText #"-6"   g''~-\addText #"16"  >16_\markup{  \fontsize #-4 "20"}  ]
+<  g'  b' a''>8  
+<  bes  c'>16 
+<  c'  e' gis'''>16 
+<  c'~  d'~ g''~>16  
 }
 
 % Measure 47
@@ -615,24 +610,24 @@ r16
 \times 4/5 
 {
 
-<  c'  d'  g'' >8. [ 
-<  c'  ees'-\addText #"19"   bes'-\addText #"-2"  >16_\markup{  \fontsize #-4 "-40"} 
-<  ees'~  ges'~-\addText #"14"   ges''~-\addText #"48"  >16_\markup{  \fontsize #-4 "-12"}  ]
+<  c'  d'  g'' >8.  
+<  c'  ees' bes'>16 
+<  ees'~  ges'~ ges''~>16  
 }
 
 \times 4/7 
 {
 
-<  ees'  ges'  ges'' >8 [ 
-<  b  dis'-\addText #"31"   fis'-\addText #"5"  >16_\markup{  \fontsize #-4 "20"} 
-<  c'  f'-\addText #"-40"   g''-\addText #"-17"  >8_\markup{  \fontsize #-4 "27"} 
-<  ees'~  bes'~-\addText #"-18"   ges''~-\addText #"29"  >8_\markup{  \fontsize #-4 "42"}  ]
+<  ees'  ges'  ges'' >8  
+<  b  dis' fis'>16 
+<  c'  f' g''>8 
+<  ees'~  bes'~ ges''~>8  
 }
 
 <  ees'  bes'  ges'' >4 
 r8 
-<  ees''  g''-\addText #"32"   fis'''-\addText #"-7"  >16_\markup{  \fontsize #-4 "40"} [ 
-<  e'~  bes''~-\addText #"12"   b''~-\addText #"12"  >16_\markup{  \fontsize #-4 "12"}  ]
+<  ees''  g'' fis'''>16  
+<  e'~  bes''~ b''~>16  
 % Measure 48
 
 
@@ -640,28 +635,26 @@ r8
 \times 2/3 
 {
 
-<  e'  ais''  b'' >8 [ 
-<  b  c'-\addText #"21"   d'-\addText #"-16"  >16_\markup{  \fontsize #-4 "-39"} 
-<  d'  e'-\addText #"-7"   fis''-\addText #"46"  >8._\markup{  \fontsize #-4 "25"}  ]
+<  e'  ais''  b'' >8  
+<  b  c' d'>16 
+<  d'  e' fis''>8.  
 }
 
 r32 
-<  a'~  d''~-\addText #"-19"   f'''~-\addText #"10"  >8.._\markup{  \fontsize #-4 "-17"} 
-<  a'  d''  f''' >16 [ 
-<  ees'  des''-\addText #"38"   f''-\addText #"-43"  >32_\markup{  \fontsize #-4 "-24"} 
-<  bes'  c''-\addText #"-18"   d''-\addText #"-28"  >8_\markup{  \fontsize #-4 "-9"} 
-<  ges'~  e''~-\addText #"34"   g''~-\addText #"48"  >32_\markup{  \fontsize #-4 "-18"}  ]
-<  ges'  e''  g'' >16 [ 
-<  a'  ees''-\addText #"23"   ges''-\addText #"48"  >8._\markup{  \fontsize #-4 "-33"}  ]
+<  a'~  d''~ f'''~>8.. 
+<  a'  d''  f''' >16  
+<  ees'  des'' f''>32 
+<  bes'  c'' d''>8 
+<  ges'~  e''~ g''~>32  
+<  ges'  e''  g'' >16  
+<  a'  ees'' ges''>8.  
 % Measure 49
 
 
 
-<  ees'  f''-\addText #"16"   g''-\addText #"-40"  >16_\markup{  \fontsize #-4 "4"} 
+<  ees'  f'' g''>16 
 r8. 
-r4 
-r4 
-r4 
+r2.
 % Measure 50
 
 
@@ -678,12 +671,12 @@ r8\p
 \times 4/5 
 {
 
-r8 [ 
-<  des'  e'-\addText #"-21"   bes'-\addText #"8"  >16_\markup{  \fontsize #-4 "11"} 
-<  e'  bes'-\addText #"26"   g''-\addText #"-33"  >8_\markup{  \fontsize #-4 "-6"}  ]
+r8  
+<  des'  e' bes'>16 
+<  e'  bes' g''>8  
 }
 
-<  des'~  e'~-\addText #"11"   b'~-\addText #"-43"  >4_\markup{  \fontsize #-4 "-34"} 
+<  des'~  e'~ b'~>4 
 <  des'~  e'~  b'~ >8 
 % Measure 52
 
@@ -693,16 +686,16 @@ r8 [
 \times 4/5 
 {
 
-<  des'  e'  b' >16 [ 
-<  a  e'-\addText #"-39"   g''-\addText #"-43"  >16_\markup{  \fontsize #-4 "44"} 
-<  a  e'-\addText #"-39"   b'-\addText #"-10"  >8._\markup{  \fontsize #-4 "44"}  ]
+<  des'  e'  b' >16  
+<  a  e' g''>16 
+<  a  e' b'>8.  
 }
 
 \times 4/5 
 {
 
-<  b  c'-\addText #"10"   d'-\addText #"0"  >16_\markup{  \fontsize #-4 "-4"} 
-<  b~  d'~-\addText #"0"   g'~-\addText #"-9"  >4_\markup{  \fontsize #-4 "-2"} 
+<  b  c' d'>16 
+<  b~  d'~ g'~>4 
 }
 
 <  b~  d'~  g'~ >8 
@@ -715,7 +708,7 @@ r8 [
 {
 
 <  b  d'  g' >16 
-<  b~  fis'~-\addText #"23"   c''~-\addText #"-22"  >4_\markup{  \fontsize #-4 "37"} 
+<  b~  fis'~ c''~>4 
 <  b~  fis'~  c''~ >16 
 }
 
@@ -723,51 +716,48 @@ r8 [
 \times 4/5 
 {
 
-<  bes  g'-\addText #"-2"   g''-\addText #"14"  >8_\markup{  \fontsize #-4 "43"} [ 
-<  c'~  e'~-\addText #"17"   e''~-\addText #"-36"  >8._\markup{  \fontsize #-4 "-28"}  ]
+<  bes  g' g''>8  
+<  c'~  e'~ e''~>8.  
 }
 
 % Measure 54
 
 
 
-<  c'  e'  e'' >16 [ 
-<  b  fis'-\addText #"-41"   c''-\addText #"11"  >16_\markup{  \fontsize #-4 "-21"}  ]
+<  c'  e'  e'' >16  
+<  b  fis' c''>16  
 \times 2/3 
 {
 
-<  b  d'-\addText #"1"   fis''-\addText #"-33"  >16_\markup{  \fontsize #-4 "-21"} 
-<  b  dis'-\addText #"44"   fis''-\addText #"-33"  >4_\markup{  \fontsize #-4 "-21"} 
-<  d'~  f'~-\addText #"-9"   ges'~-\addText #"22"  >16_\markup{  \fontsize #-4 "20"} 
+<  b  d' fis''>16 
+<  b  dis' fis''>4 
+<  d'~  f'~ ges'~>16 
 }
 
 <  d'  f'  fis' >8 
-<  c'  d'-\addText #"6"   fis''-\addText #"-3"  >4_\markup{  \fontsize #-4 "45"} 
+<  c'  d' fis''>4 
 % Measure 55
 
 
 
-<  c'  ees'-\addText #"-43"   ges''-\addText #"-3"  >16_\markup{  \fontsize #-4 "10"} 
+<  c'  ees' ges''>16 
 r16 
-<  d'  e'-\addText #"-46"  >4_\markup{  \fontsize #-4 "19"} 
-r8 
-r8 
-r8 
+<  d'  e'>4 
+r4.
 % Measure 56
 
 
 
-r8 
-r8 
+r4
 r32 
-<  b  c'-\addText #"-47"   b''-\addText #"3"  >16._\markup{  \fontsize #-4 "27"} 
-<  c'  bes'-\addText #"-16"   d''-\addText #"46"  >8_\markup{  \fontsize #-4 "48"} 
+<  b  c' b''>16. 
+<  c'  bes' d''>8 
 \times 2/3 
 {
 
-<  b  fis''-\addText #"6"  >4_\markup{  \fontsize #-4 "14"} 
-fis''16_\markup{  \fontsize #-4 "6"} 
-<  b  fis''-\addText #"2"  >16_\markup{  \fontsize #-4 "-9"} 
+<  b  fis''>4 
+fis''16 
+<  b  fis''>16 
 }
 
 % Measure 57
@@ -775,21 +765,21 @@ fis''16_\markup{  \fontsize #-4 "6"}
 
 
 r8 
-<  b  fis'-\addText #"-11"   c''-\addText #"-10"  >16_\markup{  \fontsize #-4 "-26"} [ 
-<  b~  c''~-\addText #"-3"   ges''~-\addText #"33"  >16_\markup{  \fontsize #-4 "35"}  ]
+<  b  fis' c''>16  
+<  b~  c''~ ges''~>16  
 <  b  c''  fis'' >4 
-<  c'~  ges'~-\addText #"32"   ges''~-\addText #"33"  >4_\markup{  \fontsize #-4 "18"} 
+<  c'~  ges'~ ges''~>4 
 % Measure 58
 
 
 
 <  c'  fis'  fis'' >4 
-<  bes~  ges'~-\addText #"48"   d''~-\addText #"-27"  >8_\markup{  \fontsize #-4 "24"} 
+<  bes~  ges'~ d''~>8 
 \times 2/3 
 {
 
 <  bes  ges'  d'' >16 
-<  c'~  d'~-\addText #"7"   g'~-\addText #"-7"  >4_\markup{  \fontsize #-4 "10"} 
+<  c'~  d'~ g'~>4 
 <  c'~  d'~  g'~ >16 
 }
 
@@ -799,24 +789,24 @@ r8
 
 
 <  c'~  d'~  g'~ >8 
-<  c'  d'  g' >32 [ 
-<  c'~  bes'~-\addText #"10"   bes''~-\addText #"31"  >16._\markup{  \fontsize #-4 "23"}  ]
+<  c'  d'  g' >32  
+<  c'~  bes'~ bes''~>16.  
 <  c'~  ais'~  ais''~ >2 
 % Measure 60
 
 
 
 <  c'~  ais'~  ais''~ >8 
-<  c'  ais'  ais'' >32 [ 
-<  c'~  e'~-\addText #"19"   g''~-\addText #"-44"  >16._\markup{  \fontsize #-4 "-18"}  ]
-<  c'  e'  g'' >16 [ 
-<  bes~  ges'~-\addText #"-24"   c''~-\addText #"-26"  >16_\markup{  \fontsize #-4 "42"}  ]
+<  c'  ais'  ais'' >32  
+<  c'~  e'~ g''~>16.  
+<  c'  e'  g'' >16  
+<  bes~  ges'~ c''~>16  
 <  bes  ges'  c'' >4 
 \times 2/3 
 {
 
-<  c''  c'''-\addText #"-2"  >16_\markup{  \fontsize #-4 "-15"} [ 
-r8  ]
+<  c''  c'''>16  
+r8  
 }
 
 % Measure 61
@@ -827,10 +817,10 @@ r2
 \times 4/5 
 {
 
-r16 [ 
-<  g'  a'-\addText #"35"   c''-\addText #"-2"  >16_\markup{  \fontsize #-4 "26"}
-<  g'  g''-\addText #"-45"   d'''-\addText #"8"  >8_\markup{  \fontsize #-4 "-42"} 
-<  c'  c''-\addText #"-23"   e''-\addText #"-48"  >16_\markup{  \fontsize #-4 "-45"}  ]
+r16  
+<  g'  a' c''>16
+<  g'  g'' d'''>8 
+<  c'  c'' e''>16  
 }
 
 % Measure 62
@@ -842,20 +832,20 @@ r16 [
 
 
 
-<  d'  g'-\addText #"38"   c''-\addText #"3"  >8._\markup{  \fontsize #-4 "35"}\f
+<  d'  g' c''>8.\f
 r16 
 r32 
-<  bes  d'-\addText #"32"   f'-\addText #"-33"  >8_\markup{  \fontsize #-4 "12"} [ 
-<  e'~  gis'~-\addText #"49"   d''~-\addText #"36"  >16._\markup{  \fontsize #-4 "-40"}  ]
-<  e'  gis'  d'' >16. [ 
-<  g'  b'-\addText #"-1"   d''-\addText #"-2"  >16._\markup{  \fontsize #-4 "-19"} 
-<  b  dis''-\addText #"-34"   b''-\addText #"32"  >16_\markup{  \fontsize #-4 "-40"}  ]
+<  bes  d' f'>8  
+<  e'~  gis'~ d''~>16.  
+<  e'  gis'  d'' >16.  
+<  g'  b' d''>16. 
+<  b  dis'' b''>16  
 \times 4/7 
 {
 
-<  g'  aes'-\addText #"-32"   des''-\addText #"-30"  >16_\markup{  \fontsize #-4 "-4"} [ 
-<  bes  d''-\addText #"-15"   d'''-\addText #"16"  >8._\markup{  \fontsize #-4 "26"} 
-<  b~  a''~-\addText #"24"   d'''~-\addText #"16"  >8._\markup{  \fontsize #-4 "46"}  ]
+<  g'  aes' des''>16  
+<  bes  d'' d'''>8. 
+<  b~  a''~ d'''~>8.  
 }
 
 % Measure 63
@@ -864,15 +854,15 @@ r32
 
 <  b  a''  d''' >4 
 r8. 
-<  g'  b''-\addText #"-33"  >16_\markup{  \fontsize #-4 "-27"} 
+<  g'  b''>16 
 r4 
 \times 4/5 
 {
 
-<  b  fis'-\addText #"-45"   c'''-\addText #"29"  >16_\markup{  \fontsize #-4 "11"} [ 
-<  des'  g'-\addText #"-4"   bes'-\addText #"-32"  >16_\markup{  \fontsize #-4 "22"} 
-<  a  fis'-\addText #"27"   a''-\addText #"12"  >16_\markup{  \fontsize #-4 "35"} 
-<  g'  g''-\addText #"-28"   b''-\addText #"-7"  >8_\markup{  \fontsize #-4 "-10"}  ]
+<  b  fis' c'''>16  
+<  des'  g' bes'>16 
+<  a  fis' a''>16 
+<  g'  g'' b''>8  
 }
 
 % Measure 64
@@ -882,15 +872,14 @@ r4
 \times 4/7 
 {
 
-<  cis'  gis'-\addText #"-42"   ais''-\addText #"35"  >8_\markup{  \fontsize #-4 "41"} [ 
-<  dis'  f'-\addText #"38"   bes''-\addText #"15"  >8._\markup{  \fontsize #-4 "2"} 
-<  des'  f'-\addText #"-22"   c''-\addText #"43"  >8_\markup{  \fontsize #-4 "48"}  ]
+<  cis'  gis' ais''>8  
+<  dis'  f' bes''>8. 
+<  des'  f' c''>8  
 }
 
-<  c''  bes''-\addText #"19"   b'''-\addText #"-47"  >8_\markup{  \fontsize #-4 "43"} 
+<  c''  bes'' b'''>8 
 r8 
-r4 
-r4 
+r2
 % Measure 65
 
 
@@ -899,35 +888,35 @@ r4
 \times 4/5 
 {
 
-r8. [ 
-<  d'  g'-\addText #"-39"   c''-\addText #"29"  >16_\markup{  \fontsize #-4 "20"} 
-<  des'  a'-\addText #"24"   b''-\addText #"46"  >16_\markup{  \fontsize #-4 "-48"}  ]
+r8.  
+<  d'  g' c''>16 
+<  des'  a' b''>16  
 }
 
 \times 2/3 
 {
 
-<  c'  des'-\addText #"-48"   a'-\addText #"49"  >4_\markup{  \fontsize #-4 "-40"} 
-<  a~  bes~-\addText #"-26"   c''~-\addText #"31"  >8_\markup{  \fontsize #-4 "23"} 
+<  c'  des' a'>4 
+<  a~  bes~ c''~>8 
 }
 
-<  a  ais  c'' >32 [ 
-<  ees'  a'-\addText #"9"   d'''-\addText #"22"  >16._\markup{  \fontsize #-4 "28"} 
-<  c'  d'-\addText #"-21"   e'-\addText #"21"  >16_\markup{  \fontsize #-4 "-44"} 
-<  d'~  bes'~-\addText #"-45"   c'''~-\addText #"37"  >16_\markup{  \fontsize #-4 "32"}  ]
+<  a  ais  c'' >32  
+<  ees'  a' d'''>16. 
+<  c'  d' e'>16 
+<  d'~  bes'~ c'''~>16  
 % Measure 66
 
 
 
 <  d'  ais'  c''' >4 
-<  b  d'-\addText #"-39"   f'-\addText #"-15"  >8_\markup{  \fontsize #-4 "-40"} [ 
-<  bes  ges'-\addText #"-9"   aes'-\addText #"16"  >16_\markup{  \fontsize #-4 "-3"} 
-<  a  c''-\addText #"-14"   c'''-\addText #"-45"  >16_\markup{  \fontsize #-4 "36"}  ]
+<  b  d' f'>8  
+<  bes  ges' aes'>16 
+<  a  c'' c'''>16  
 \times 4/5 
 {
 
-<  aes'  bes'-\addText #"-4"   c''''-\addText #"-43"  >8_\markup{  \fontsize #-4 "-43"} 
-<  d'  g'-\addText #"36"   bes'-\addText #"-24"  >8_\markup{  \fontsize #-4 "-18"} 
+<  aes'  bes' c''''>8 
+<  d'  g' bes'>8 
 r4. 
 }
 
@@ -936,16 +925,16 @@ r4.
 
 
 r16 
-<  ees'  des''-\addText #"-39"   f''-\addText #"-26"  >16._\markup{  \fontsize #-4 "-46"} [ 
-<  d'  g'-\addText #"-49"   a''-\addText #"18"  >32_\markup{  \fontsize #-4 "-27"} 
-<  g'~  d''~-\addText #"-47"   d'''~-\addText #"-39"  >16_\markup{  \fontsize #-4 "-49"}  ]
+<  ees'  des'' f''>16.  
+<  d'  g' a''>32 
+<  g'~  d''~ d'''~>16  
 <  g'~  d''~  d'''~ >4 
-<  g'  d''  d''' >32 [ 
-<  g'  d''-\addText #"-8"   d'''-\addText #"21"  >16_\markup{  \fontsize #-4 "32"} 
-<  bes  d''-\addText #"5"  >8_\markup{  \fontsize #-4 "0"}  ]
+<  g'  d''  d''' >32  
+<  g'  d'' d'''>16 
+<  bes  d''>8  
 r32 
 r8.. 
-<  a~  d'~-\addText #"46"   g'~-\addText #"44"  >32_\markup{  \fontsize #-4 "-7"} 
+<  a~  d'~ g'~>32 
 % Measure 68
 
 
@@ -955,25 +944,25 @@ r8..
 
 <  a~  d'~  g'~ >4 
 <  a  d'  g' >16 
-<  c''~  g''~-\addText #"-41"   c'''~-\addText #"-28"  >16_\markup{  \fontsize #-4 "-8"} 
+<  c''~  g''~ c'''~>16 
 }
 
 \times 4/5 
 {
 
-<  c''  g''  c''' >8 [ 
-<  c'  g''-\addText #"-41"  >8_\markup{  \fontsize #-4 "20"} 
-<  d'~  e'~-\addText #"29"   g''~-\addText #"16"  >16_\markup{  \fontsize #-4 "-12"}  ]
+<  c''  g''  c''' >8  
+<  c'  g''>8 
+<  d'~  e'~ g''~>16  
 }
 
-<  d'  e'  g'' >32 [ 
-<  a'~  c''~-\addText #"-9"   c'''~-\addText #"-16"  >8_\markup{  \fontsize #-4 "-5"}  ]
-<  a'  c''  c''' >32 [ 
-<  c'~  c''~-\addText #"12"   c'''~-\addText #"3"  >16_\markup{  \fontsize #-4 "-24"}  ]
-<  c'  c''  c''' >32 [ 
-<  c'  c''-\addText #"0"  >16._\markup{  \fontsize #-4 "-23"} 
-<  c''  g''-\addText #"-3"  >16._\markup{  \fontsize #-4 "-32"} 
-<  c'~  ges''~-\addText #"30"   c'''~-\addText #"-10"  >32_\markup{  \fontsize #-4 "-20"}  ]
+<  d'  e'  g'' >32  
+<  a'~  c''~ c'''~>8  
+<  a'  c''  c''' >32  
+<  c'~  c''~ c'''~>16  
+<  c'  c''  c''' >32  
+<  c'  c''>16. 
+<  c''  g''>16. 
+<  c'~  ges''~ c'''~>32  
 % Measure 69
 
 
@@ -983,21 +972,21 @@ r8..
 
 <  c'~  fis''~  c'''~ >4 
 <  c'  fis''  c''' >16 
-<  c'  b'-\addText #"-9"   b''-\addText #"7"  >16_\markup{  \fontsize #-4 "17"} 
+<  c'  b' b''>16 
 }
 
 \times 4/5 
 {
 
-<  c'  b'-\addText #"17"   b''-\addText #"5"  >8_\markup{  \fontsize #-4 "-6"} [ 
-<  b  e'-\addText #"-18"   fis'-\addText #"33"  >8_\markup{  \fontsize #-4 "-5"} 
-<  e'~  fis'~-\addText #"33"   b'~-\addText #"-46"  >16_\markup{  \fontsize #-4 "-45"}  ]
+<  c'  b' b''>8  
+<  b  e' fis'>8 
+<  e'~  fis'~ b'~>16  
 }
 
 <  e'~  fis'~  b'~ >4 
-<  e'  fis'  b' >16. [ 
-<  cis'  d''-\addText #"-1"   aes''-\addText #"-48"  >8_\markup{  \fontsize #-4 "-12"} 
-<  c'  d''-\addText #"-1"   b''-\addText #"-16"  >32_\markup{  \fontsize #-4 "33"}  ]
+<  e'  fis'  b' >16.  
+<  cis'  d'' aes''>8 
+<  c'  d'' b''>32  
 % Measure 70
 
 
@@ -1008,16 +997,16 @@ R4*4
 
 
 r16. 
-<  f'  d''-\addText #"-1"   fis''-\addText #"-21"  >16._\markup{  \fontsize #-4 "7"} [ 
-<  f'~  d''~-\addText #"-1"   g''~-\addText #"-29"  >16_\markup{  \fontsize #-4 "7"}  ]
+<  f'  d'' fis''>16.  
+<  f'~  d''~ g''~>16  
 <  f'~  d''~  g''~ >2. 
 % Measure 72
 
 
 
-<  f'  d''  g'' >16 [ 
-<  e'  a'-\addText #"-26"   g''-\addText #"-8"  >8._\markup{  \fontsize #-4 "46"}  ]
-<  aes'~  d''~-\addText #"17"   g''~-\addText #"-8"  >2._\markup{  \fontsize #-4 "49"} 
+<  f'  d''  g'' >16  
+<  e'  a' g''>8.  
+<  aes'~  d''~ g''~>2. 
 % Measure 73
 
 
@@ -1028,15 +1017,15 @@ r16.
 
 
 <  aes'  d''  g'' >2 
-<  bes  f'-\addText #"-5"   g''-\addText #"49"  >8._\markup{  \fontsize #-4 "12"} [ 
-<  c''~  e''~-\addText #"-29"   d''''~-\addText #"12"  >16_\markup{  \fontsize #-4 "32"}  ]
+<  bes  f' g''>8.  
+<  c''~  e''~ d''''~>16  
 \times 2/3 
 {
 
-<  c''  e''  d'''' >16 [ 
-<  d'  d''-\addText #"12"   g''-\addText #"23"  >8_\markup{  \fontsize #-4 "11"} 
-<  b  d'-\addText #"-4"  >8_\markup{  \fontsize #-4 "-36"} 
-<  d'~  b'~-\addText #"5"   c''~-\addText #"8"  >16_\markup{  \fontsize #-4 "11"}  ]
+<  c''  e''  d'''' >16  
+<  d'  d'' g''>8 
+<  b  d'>8 
+<  d'~  b'~ c''~>16  
 }
 
 % Measure 75
@@ -1046,28 +1035,28 @@ r16.
 \times 2/3 
 {
 
-<  d'  b'  c'' >8 [ 
-<  c'  d'-\addText #"11"   d''-\addText #"9"  >8._\markup{  \fontsize #-4 "41"} 
-<  c'~  d'~-\addText #"11"   cis''~-\addText #"37"  >16_\markup{  \fontsize #-4 "41"}  ]
+<  d'  b'  c'' >8  
+<  c'  d' d''>8. 
+<  c'~  d'~ cis''~>16  
 }
 
-<  c'  d'  cis'' >16 [ 
-<  d'~  c''~-\addText #"-13"   d''~-\addText #"-29"  >8._\markup{  \fontsize #-4 "11"}  ]
+<  c'  d'  cis'' >16  
+<  d'~  c''~ d''~>8.  
 \times 2/3 
 {
 
 <  d'~  c''~  d''~ >4 
 <  d'  c''  d'' >16 
-<  cis'  cis''-\addText #"26"   dis''''-\addText #"9"  >16_\markup{  \fontsize #-4 "20"} 
+<  cis'  cis'' dis''''>16 
 }
 
-<  cis'~  d''~-\addText #"1"   ees''''~-\addText #"9"  >4_\markup{  \fontsize #-4 "20"} 
+<  cis'~  d''~ ees''''~>4 
 % Measure 76
 
 
 
-<  cis'  d''  dis'''' >16. [ 
-<  e'~  c''~-\addText #"-26"  >8_\markup{  \fontsize #-4 "-33"}  ]
+<  cis'  d''  dis'''' >16.  
+<  e'~  c''~>8  
 <  e'~  c''~ >32 
 <  e'~  c''~ >4 
 \times 2/3 
@@ -1075,15 +1064,15 @@ r16.
 
 <  e'~  c''~ >4 
 <  e'  c'' >16 
-<  d'~  f'~-\addText #"14"   b'~-\addText #"28"  >16_\markup{  \fontsize #-4 "37"} 
+<  d'~  f'~ b'~>16 
 }
 
 \times 2/3 
 {
 
-<  d'  f'  b' >16 [ 
-<  b  f'-\addText #"14"   c''-\addText #"-24"  >8_\markup{  \fontsize #-4 "36"} 
-r8.  ]
+<  d'  f'  b' >16  
+<  b  f' c''>8 
+r8.  
 }
 
 % Measure 77
@@ -1093,20 +1082,20 @@ r8.  ]
 \times 2/3 
 {
 
-r8 [ 
-<  g'  b'-\addText #"3"   c''-\addText #"-2"  >16_\markup{  \fontsize #-4 "-3"} 
-r8.  ]
+r8  
+<  g'  b' c''>16 
+r8.  
 }
 
 r16 
-<  b'  c''-\addText #"14"   g'''-\addText #"17"  >8_\markup{  \fontsize #-4 "3"} 
+<  b'  c'' g'''>8 
 r16 
 \times 2/3 
 {
 
-r8 [ 
-<  b  b'-\addText #"-42"   g'''-\addText #"10"  >16_\markup{  \fontsize #-4 "-7"} 
-r8.  ]
+r8  
+<  b  b' g'''>16 
+r8.  
 }
 
 r4 
@@ -1115,59 +1104,59 @@ r4
 
 
 r16 
-<  b  f'-\addText #"-10"   g'''-\addText #"2"  >16_\markup{  \fontsize #-4 "-36"} 
+<  b  f' g'''>16 
 r8 
 r8 
 r32 
-<  ees'  c''-\addText #"36"   g'''-\addText #"21"  >32_\markup{  \fontsize #-4 "8"} 
+<  ees'  c'' g'''>32 
 r16 
 r4 
 r16 
-<  g'  des''-\addText #"-36"   g'''-\addText #"20"  >16_\markup{  \fontsize #-4 "29"} [ 
-<  d'  g''-\addText #"-16"   g''''-\addText #"28"  >16_\markup{  \fontsize #-4 "-23"} 
-<  des'~  ees'~-\addText #"35"   ges'~-\addText #"34"  >16_\markup{  \fontsize #-4 "-27"}  ]
+<  g'  des'' g'''>16  
+<  d'  g'' g''''>16 
+<  des'~  ees'~ ges'~>16  
 % Measure 79
 
 
 
-<  des'  ees'  ges' >8. [\ff
-<  b  d'-\addText #"1"   fis''-\addText #"-14"  >16_\markup{  \fontsize #-4 "-3"}  ]
+<  des'  ees'  ges' >8. \ff
+<  b  d' fis''>16  
 \times 2/3 
 {
 
-<  d'  b'-\addText #"25"   g'''-\addText #"-22"  >8._\markup{  \fontsize #-4 "1"} [ 
-<  b~  d'~-\addText #"48"   g''~-\addText #"-11"  >8._\markup{  \fontsize #-4 "36"}  ]
+<  d'  b' g'''>8.  
+<  b~  d'~ g''~>8.  
 }
 
 \times 2/3 
 {
 
-<  b  d'  g'' >8 [ 
-<  d'  e'-\addText #"32"   g'-\addText #"2"  >16_\markup{  \fontsize #-4 "-5"} 
-<  d'~  fis'~-\addText #"-8"   g''~-\addText #"3"  >8._\markup{  \fontsize #-4 "-5"}  ]
+<  b  d'  g'' >8  
+<  d'  e' g'>16 
+<  d'~  fis'~ g''~>8.  
 }
 
-<  d'  fis'  g'' >16 [ 
-<  bes  g'-\addText #"19"   g'''-\addText #"-2"  >8._\markup{  \fontsize #-4 "17"}  ]
+<  d'  fis'  g'' >16  
+<  bes  g' g'''>8.  
 % Measure 80
 
 
 
-<  d'  g''-\addText #"-25"   g'''-\addText #"24"  >16_\markup{  \fontsize #-4 "1"} 
+<  d'  g'' g'''>16 
 r8 
-<  d'  g'-\addText #"13"  >16_\markup{  \fontsize #-4 "-23"} 
+<  d'  g'>16 
 r16. 
-<  ees'~  g''~-\addText #"-20"   g''''~-\addText #"0"  >8_\markup{  \fontsize #-4 "-46"} 
+<  ees'~  g''~ g''''~>8 
 <  ees'  g''  g'''' >32 
 \times 2/3 
 {
 
-<  bes  ees'-\addText #"-46"   g'''-\addText #"18"  >4_\markup{  \fontsize #-4 "4"} 
-<  bes  ees'-\addText #"-46"   g''-\addText #"4"  >8_\markup{  \fontsize #-4 "-10"} 
+<  bes  ees' g'''>4 
+<  bes  ees' g''>8 
 }
 
-<  bes  ees'-\addText #"-46"   g''-\addText #"6"  >16._\markup{  \fontsize #-4 "-10"} [ 
-<  bes~  ees'~-\addText #"-46"   g'''~-\addText #"6"  >8_\markup{  \fontsize #-4 "-10"}  ]
+<  bes  ees' g''>16.  
+<  bes~  ees'~ g'''~>8  
 <  bes  ees'  g''' >32 
 % Measure 81
 
@@ -1176,24 +1165,24 @@ r16.
 \times 2/3 
 {
 
-<  bes  ees'-\addText #"-46"   g'''-\addText #"-1"  >8_\markup{  \fontsize #-4 "-10"} [ 
+<  bes  ees' g'''>8  
 r8 
-<  ees'  g''-\addText #"3"   c'''-\addText #"-5"  >8_\markup{  \fontsize #-4 "-46"}  ]
+<  ees'  g'' c'''>8  
 }
 
 \times 2/3 
 {
 
 r16 
-<  ees'  g''-\addText #"-15"   c'''-\addText #"3"  >4_\markup{  \fontsize #-4 "-46"} 
-<  c'~  ees'~-\addText #"-46"   c''~-\addText #"-2"  >16_\markup{  \fontsize #-4 "-9"} 
+<  ees'  g'' c'''>4 
+<  c'~  ees'~ c''~>16 
 }
 
-<  c'  dis'  c'' >32 [ 
-<  ees'  c''-\addText #"-2"   g''-\addText #"-14"  >16_\markup{  \fontsize #-4 "-46"} 
-<  c'  ees'-\addText #"-46"   g''-\addText #"-10"  >16._\markup{  \fontsize #-4 "0"} 
-<  c'  c'''-\addText #"-25"   g'''-\addText #"4"  >16_\markup{  \fontsize #-4 "12"}  ]
-<  c'  c'''-\addText #"-25"   g'''-\addText #"21"  >4_\markup{  \fontsize #-4 "12"} 
+<  c'  dis'  c'' >32  
+<  ees'  c'' g''>16 
+<  c'  ees' g''>16. 
+<  c'  c''' g'''>16  
+<  c'  c''' g'''>4 
 % Measure 82
 
 
@@ -1201,8 +1190,8 @@ r16
 \times 2/3 
 {
 
-<  ees'  c'''-\addText #"3"   g'''-\addText #"-1"  >16_\markup{  \fontsize #-4 "-46"} 
-<  c'~  g''~-\addText #"-9"   c'''~-\addText #"-25"  >4_\markup{  \fontsize #-4 "-37"} 
+<  ees'  c''' g'''>16 
+<  c'~  g''~ c'''~>4 
 <  c'~  g''~  c'''~ >16 
 }
 
@@ -1210,38 +1199,38 @@ r16
 \times 2/3 
 {
 
-<  b  g'-\addText #"6"   des''-\addText #"-35"  >8_\markup{  \fontsize #-4 "-7"} [ 
-<  bes  b-\addText #"-7"   g''-\addText #"33"  >8_\markup{  \fontsize #-4 "-1"} 
-<  b  fis'-\addText #"10"   dis''-\addText #"6"  >8_\markup{  \fontsize #-4 "-7"}  ]
+<  b  g' des''>8  
+<  bes  b g''>8 
+<  b  fis' dis''>8  
 }
 
 r8 
-<  a  e'-\addText #"-16"   dis''-\addText #"-7"  >16._\markup{  \fontsize #-4 "-15"} [ 
-<  a  c'-\addText #"-4"   f'-\addText #"-6"  >32_\markup{  \fontsize #-4 "0"}  ]
+<  a  e' dis''>16.  
+<  a  c' f'>32  
 % Measure 83
 
 
 
-<  b  dis'-\addText #"-45"   g'-\addText #"-45"  >32_\markup{  \fontsize #-4 "0"} [ 
-<  a  cis'-\addText #"43"   d'''-\addText #"-41"  >8_\markup{  \fontsize #-4 "0"} 
-<  g'~  d''~-\addText #"26"   d'''~-\addText #"30"  >16._\markup{  \fontsize #-4 "-3"}  ]
+<  b  dis' g'>32  
+<  a  cis' d'''>8 
+<  g'~  d''~ d'''~>16.  
 \times 2/3 
 {
 
-<  g'  d''  d''' >8 [ 
-<  e'  d''-\addText #"23"   g''-\addText #"-37"  >16_\markup{  \fontsize #-4 "22"} 
-<  e'  g''-\addText #"-37"   des'''-\addText #"7"  >8._\markup{  \fontsize #-4 "22"}  ]
+<  g'  d''  d''' >8  
+<  e'  d'' g''>16 
+<  e'  g'' des'''>8.  
 }
 
-<  bes  d'-\addText #"-5"   g''-\addText #"-37"  >32_\markup{  \fontsize #-4 "5"} [ 
-<  bes  ees''-\addText #"-47"   g''-\addText #"-37"  >16._\markup{  \fontsize #-4 "5"} 
-<  ees'  bes'-\addText #"30"   d'''-\addText #"39"  >16_\markup{  \fontsize #-4 "33"} 
-<  ees'  bes'-\addText #"30"   d''-\addText #"-1"  >16_\markup{  \fontsize #-4 "33"}  ]
+<  bes  d' g''>32  
+<  bes  ees'' g''>16. 
+<  ees'  bes' d'''>16 
+<  ees'  bes' d''>16  
 \times 2/3 
 {
 
-<  ees'  bes'-\addText #"30"   d'''-\addText #"16"  >8_\markup{  \fontsize #-4 "33"} 
-<  b  dis'-\addText #"33"   e'-\addText #"-49"  >4_\markup{  \fontsize #-4 "24"} 
+<  ees'  bes' d'''>8 
+<  b  dis' e'>4 
 }
 
 % Measure 84
@@ -1251,12 +1240,12 @@ r8
 \times 2/3 
 {
 
-<  bes  d'-\addText #"-18"   ees'-\addText #"33"  >8_\markup{  \fontsize #-4 "-25"} 
-<  b~  dis'~-\addText #"33"   c'''~-\addText #"-21"  >4_\markup{  \fontsize #-4 "-18"} 
+<  bes  d' ees'>8 
+<  b~  dis'~ c'''~>4 
 }
 
-<  b  dis'  c''' >32 [ 
-<  c'~  a'~-\addText #"20"   cis'''~-\addText #"-48"  >8.._\markup{  \fontsize #-4 "36"}  ]
+<  b  dis'  c''' >32  
+<  c'~  a'~ cis'''~>8..  
 <  c'~  a'~  cis'''~ >2 
 % Measure 85
 
@@ -1265,50 +1254,50 @@ r8
 \times 2/3 
 {
 
-<  c'  a'  cis''' >8 [ 
-<  cis'  g'-\addText #"-17"   b''-\addText #"-44"  >8._\markup{  \fontsize #-4 "8"} 
-<  c'  des'-\addText #"8"   ges''-\addText #"2"  >16_\markup{  \fontsize #-4 "-41"}  ]
+<  c'  a'  cis''' >8  
+<  cis'  g' b''>8. 
+<  c'  des' ges''>16  
 }
 
-<  c'  des'-\addText #"8"   b''-\addText #"5"  >2_\markup{  \fontsize #-4 "-41"} 
+<  c'  des' b''>2 
 \times 2/3 
 {
 
-<  cis'  g'-\addText #"-43"   c'''-\addText #"-46"  >8_\markup{  \fontsize #-4 "-17"} 
-<  des'~  d'~-\addText #"6"   b''~-\addText #"28"  >4_\markup{  \fontsize #-4 "-17"} 
+<  cis'  g' c'''>8 
+<  des'~  d'~ b''~>4 
 }
 
 % Measure 86
 
 
 
-<  des'  d'  b'' >8. [ 
-<  b'~  g''~-\addText #"8"   b''~-\addText #"7"  >16_\markup{  \fontsize #-4 "44"}  ]
+<  des'  d'  b'' >8.  
+<  b'~  g''~ b''~>16  
 \times 2/3 
 {
 
-<  b'  g''  b'' >8. [ 
-<  b'  b''-\addText #"27"  >8_\markup{  \fontsize #-4 "44"} 
-<  b'~  g''~-\addText #"3"   g'''~-\addText #"-27"  >16_\markup{  \fontsize #-4 "44"}  ]
+<  b'  g''  b'' >8.  
+<  b'  b''>8 
+<  b'~  g''~ g'''~>16  
 }
 
-<  b'  g''  g''' >16 [ 
-<  g'  b'-\addText #"44"   g''-\addText #"-13"  >16._\markup{  \fontsize #-4 "-11"} 
-<  aes'~  b'~-\addText #"44"   g''~-\addText #"-16"  >16._\markup{  \fontsize #-4 "-43"}  ]
-<  aes'  b'  g'' >32 [ 
-<  c'~  g'~-\addText #"-17"   b'~-\addText #"44"  >8_\markup{  \fontsize #-4 "-6"}  ]
-<  c'  g'  b' >32 [ 
-<  c'~  g'~-\addText #"-33"   b'~-\addText #"44"  >16_\markup{  \fontsize #-4 "30"}  ]
+<  b'  g''  g''' >16  
+<  g'  b' g''>16. 
+<  aes'~  b'~ g''~>16.  
+<  aes'  b'  g'' >32  
+<  c'~  g'~ b'~>8  
+<  c'  g'  b' >32  
+<  c'~  g'~ b'~>16  
 % Measure 87
 
 
 
 <  c'  g'  b' >4 
-<  g'  ees''-\addText #"-40"   g'''-\addText #"12"  >16._\markup{  \fontsize #-4 "-3"} [ 
-<  b'~  dis''~-\addText #"-40"   g''~-\addText #"-16"  >8_\markup{  \fontsize #-4 "49"}  ]
+<  g'  ees'' g'''>16.  
+<  b'~  dis''~ g''~>8  
 <  b'~  dis''~  g''~ >32 
-<  b'  dis''  g'' >8. [ 
-<  g'~  g''~-\addText #"-24"   g'''~-\addText #"-39"  >16_\markup{  \fontsize #-4 "-2"}  ]
+<  b'  dis''  g'' >8.  
+<  g'~  g''~ g'''~>16  
 <  g'~  g''~  g'''~ >4 
 % Measure 88
 
@@ -1317,21 +1306,21 @@ r8
 \times 4/7 
 {
 
-<  g'  g''  g''' >8 [ 
-<  g'  g''-\addText #"-19"   g'''-\addText #"-39"  >8_\markup{  \fontsize #-4 "-2"} 
-<  e'  g'''-\addText #"2"  >8_\markup{  \fontsize #-4 "38"} 
-<  e'~  g''~-\addText #"-3"   g'''~-\addText #"-39"  >16_\markup{  \fontsize #-4 "38"}  ]
+<  g'  g''  g''' >8  
+<  g'  g'' g'''>8 
+<  e'  g'''>8 
+<  e'~  g''~ g'''~>16  
 }
 
-<  e'  g''  g''' >32 [ 
-<  e'  g'''-\addText #"-4"  >16_\markup{  \fontsize #-4 "38"} 
-<  b  dis'-\addText #"-47"   g''''-\addText #"-31"  >16_\markup{  \fontsize #-4 "-36"} 
-<  des'~  g'~-\addText #"8"   g''''~-\addText #"-31"  >16._\markup{  \fontsize #-4 "-5"}  ]
-<  des'  g'  g'''' >16. [ 
-<  b'~  g''~-\addText #"10"  >8_\markup{  \fontsize #-4 "47"}  ]
+<  e'  g''  g''' >32  
+<  e'  g'''>16 
+<  b  dis' g''''>16 
+<  des'~  g'~ g''''~>16.  
+<  des'  g'  g'''' >16.  
+<  b'~  g''~>8  
 <  b'~  g''~ >32 
-<  b'  g'' >8 [ 
-<  b'~  g'''~-\addText #"-16"  >8_\markup{  \fontsize #-4 "47"}  ]
+<  b'  g'' >8  
+<  b'~  g'''~>8  
 % Measure 89
 
 
@@ -1340,40 +1329,40 @@ r8
 \times 4/7 
 {
 
-<  b'  g''' >8 [ 
-<  b'  c''-\addText #"-48"   g''-\addText #"-19"  >8_\markup{  \fontsize #-4 "47"} 
-<  ees'  b'-\addText #"47"   g'''-\addText #"-19"  >16_\markup{  \fontsize #-4 "-16"} 
-<  ees'  a'-\addText #"-20"   g''-\addText #"10"  >8_\markup{  \fontsize #-4 "-9"}  ]
+<  b'  g''' >8  
+<  b'  c'' g''>8 
+<  ees'  b' g'''>16 
+<  ees'  a' g''>8  
 }
 
-<  a~  c'''~-\addText #"-21"   g'''~-\addText #"-23"  >4_\markup{  \fontsize #-4 "44"} 
+<  a~  c'''~ g'''~>4 
 \times 2/3 
 {
 
-<  a  c'''  g''' >8 [ 
-<  ees'  c''-\addText #"-9"   g'''-\addText #"-15"  >16_\markup{  \fontsize #-4 "-22"} 
-<  ees'~  g'''~-\addText #"-27"   g''''~-\addText #"28"  >8._\markup{  \fontsize #-4 "-22"}  ]
+<  a  c'''  g''' >8  
+<  ees'  c'' g'''>16 
+<  ees'~  g'''~ g''''~>8.  
 }
 
 % Measure 90
 
 
 
-<  ees'  g'''  g'''' >16 [ 
-<  ees'  c''-\addText #"22"   g''-\addText #"0"  >16_\markup{  \fontsize #-4 "-22"} 
-<  ees'  c''-\addText #"22"   g'''-\addText #"-19"  >16_\markup{  \fontsize #-4 "-22"} 
-<  ees'  c''-\addText #"22"   g''-\addText #"9"  >16_\markup{  \fontsize #-4 "-22"}  ]
+<  ees'  g'''  g'''' >16  
+<  ees'  c'' g''>16 
+<  ees'  c'' g'''>16 
+<  ees'  c'' g''>16  
 \times 2/3 
 {
 
-<  ees'  g'''-\addText #"2"   g''''-\addText #"12"  >8_\markup{  \fontsize #-4 "-22"} 
-<  ees'~  c''~-\addText #"17"   g''~-\addText #"-12"  >4_\markup{  \fontsize #-4 "-22"} 
+<  ees'  g''' g''''>8 
+<  ees'~  c''~ g''~>4 
 }
 
-<  ees'  c''  g'' >16 [ 
-<  c'  e'-\addText #"-44"   a'-\addText #"-12"  >8._\markup{  \fontsize #-4 "-48"}  ]
+<  ees'  c''  g'' >16  
+<  c'  e' a'>8.  
 r16. 
-<  a~  c'~-\addText #"13"   g'~-\addText #"-44"  >8_\markup{  \fontsize #-4 "27"} 
+<  a~  c'~ g'~>8 
 <  a  c'  g' >32 
 % Measure 91
 
@@ -1382,25 +1371,25 @@ r16.
 \times 2/3 
 {
 
-<  b  dis'-\addText #"-11"   e'-\addText #"-37"   a'-\addText #"11"   c''-\addText #"-32"   ees''-\addText #"1"  >8_\markup{  \fontsize #-4 "6"} [ 
-<  b  a'-\addText #"11"   b''-\addText #"-1"  >8_\markup{  \fontsize #-4 "6"} 
-<  a  cis'-\addText #"34"   fis'-\addText #"1"   g'-\addText #"-39"   c'''-\addText #"0"  >8_\markup{  \fontsize #-4 "34"}  ]
+<  b  dis' e' a' c'' ees''>8  
+<  b  a' b''>8 
+<  a  cis' fis' g' c'''>8  
 }
 
-<  g'  d'''-\addText #"43"  >4_\markup{  \fontsize #-4 "18"} 
+<  g'  d'''>4 
 \times 4/5 
 {
 
-r8. [ 
-<  d'  a'-\addText #"-30"   ees'''-\addText #"-34"  >16_\markup{  \fontsize #-4 "27"} 
-<  d'~  a'~-\addText #"-30"   cis'''~-\addText #"35"  >16_\markup{  \fontsize #-4 "27"}  ]
+r8.  
+<  d'  a' ees'''>16 
+<  d'~  a'~ cis'''~>16  
 }
 
 \times 2/3 
 {
 
 <  d'  a'  cis''' >8 
-<  a'  d''-\addText #"18"   d'''-\addText #"22"  >4_\markup{  \fontsize #-4 "-30"} 
+<  a'  d'' d'''>4 
 }
 
 % Measure 92
@@ -1410,52 +1399,50 @@ r8. [
 \times 4/7 
 {
 
-<  e'  fis'-\addText #"-30"   b'-\addText #"37"  >16_\markup{  \fontsize #-4 "34"} [ 
-<  fis'  b'-\addText #"37"   cis'''-\addText #"-20"  >8._\markup{  \fontsize #-4 "-30"} 
-<  gis'~  c'''~-\addText #"-29"  >8._\markup{  \fontsize #-4 "-29"}  ]
+<  e'  fis' b'>16  
+<  fis'  b' cis'''>8. 
+<  gis'~  c'''~>8.  
 }
 
-<  gis'  c''' >8. [ 
-<  ges'  c''-\addText #"0"   des''-\addText #"44"  >16_\markup{  \fontsize #-4 "42"}  ]
+<  gis'  c''' >8.  
+<  ges'  c'' des''>16  
 \times 4/5 
 {
 
-<  ges'  des''-\addText #"44"   c'''-\addText #"3"  >8_\markup{  \fontsize #-4 "42"} [ 
-<  c'~  ees'~-\addText #"-46"   c''~-\addText #"4"  >8._\markup{  \fontsize #-4 "-29"}  ]
+<  ges'  des'' c'''>8  
+<  c'~  ees'~ c''~>8.  
 }
 
-<  c'  dis'  c'' >32 [ 
-<  des'~  e'~-\addText #"-17"   c'''~-\addText #"-20"  >8.._\markup{  \fontsize #-4 "-12"}  ]
+<  c'  dis'  c'' >32  
+<  des'~  e'~ c'''~>8..  
 % Measure 93
 
 
 
-<  des'  e'  c''' >16. [ 
-<  des'  b''-\addText #"-14"  >8_\markup{  \fontsize #-4 "-15"}  ]
+<  des'  e'  c''' >16.  
+<  des'  b''>8  
 r32 
-r4 
-r4 
-r4 
+r2.
 % Measure 94
 
 
 
 r16 
-<  ais  b'-\addText #"45"   fis''-\addText #"35"  >16_\markup{  \fontsize #-4 "37"} [ 
-<  ais  fis''-\addText #"35"   b''-\addText #"17"  >16_\markup{  \fontsize #-4 "37"} 
-<  ais  b'-\addText #"30"   g''-\addText #"17"  >16_\markup{  \fontsize #-4 "37"}  ]
+<  ais  b' fis''>16  
+<  ais  fis'' b''>16 
+<  ais  b' g''>16  
 \times 2/3 
 {
 
 r8 
-<  bes  g''-\addText #"-6"  >4_\markup{  \fontsize #-4 "37"} 
+<  bes  g''>4 
 }
 
 r8.. 
-<  bes~  c'~-\addText #"-14"   f'~-\addText #"10"  >32_\markup{  \fontsize #-4 "37"} 
-<  bes  c'  f' >8 [ 
-<  bes  ges'-\addText #"2"   g'-\addText #"3"  >16_\markup{  \fontsize #-4 "37"} 
-<  bes  c'-\addText #"-45"   f'-\addText #"-14"  >16_\markup{  \fontsize #-4 "37"}  ]
+<  bes~  c'~ f'~>32 
+<  bes  c'  f' >8  
+<  bes  ges' g'>16 
+<  bes  c' f'>16  
 % Measure 95
 
 
@@ -1463,16 +1450,16 @@ r8..
 \times 2/3 
 {
 
-<  bes  des'-\addText #"40"   g'-\addText #"4"   g''-\addText #"17"   g'''-\addText #"-11"  >4_\markup{  \fontsize #-4 "37"}
-<  bes'~  aes''~-\addText #"-20"   g'''~-\addText #"17"  >8_\markup{  \fontsize #-4 "13"} 
+<  bes  des' g' g'' g'''>4
+<  bes'~  aes''~ g'''~>8 
 }
 
 \times 2/3 
 {
 
 <  bes'  aes''  g''' >16 
-<  bes  g'''-\addText #"-20"  >16_\markup{  \fontsize #-4 "-6"} 
-<  bes~  g''~-\addText #"-2"   g'''~-\addText #"-14"  >4_\markup{  \fontsize #-4 "-6"} 
+<  bes  g'''>16 
+<  bes~  g''~ g'''~>4 
 }
 
 <  bes~  g''~  g'''~ >4 
@@ -1480,7 +1467,7 @@ r8..
 {
 
 <  bes  g''  g''' >16 
-<  g'~  b'~-\addText #"40"   g'''~-\addText #"-27"  >4_\markup{  \fontsize #-4 "8"} 
+<  g'~  b'~ g'''~>4 
 <  g'~  b'~  g'''~ >16 
 }
 
@@ -1488,14 +1475,14 @@ r8..
 
 
 
-<  g'  b'  g''' >16 [ 
-<  g'  g''-\addText #"-16"   g'''-\addText #"-17"  >16._\markup{  \fontsize #-4 "8"} 
-<  e'~  g'~-\addText #"8"   g'''~-\addText #"-4"  >16._\markup{  \fontsize #-4 "32"}  ]
-<  e'  g'  g''' >32 [ 
-<  e'  g'-\addText #"8"   g'''-\addText #"-16"  >8.._\markup{  \fontsize #-4 "32"}  ]
-<  f'  g''-\addText #"1"  >4_\markup{  \fontsize #-4 "-48"} 
+<  g'  b'  g''' >16  
+<  g'  g'' g'''>16. 
+<  e'~  g'~ g'''~>16.  
+<  e'  g'  g''' >32  
+<  e'  g' g'''>8..  
+<  f'  g''>4 
 r8 
-<  des'~  g'~-\addText #"11"   g'''~-\addText #"-4"  >8_\markup{  \fontsize #-4 "-17"} 
+<  des'~  g'~ g'''~>8 
 % Measure 97
 
 
@@ -1503,90 +1490,90 @@ r8
 \times 4/7 
 {
 
-<  des'  g'  g''' >16 [ 
-<  g''  fis'''-\addText #"34"   g''''-\addText #"-17"  >8_\markup{  \fontsize #-4 "1"} 
-<  b  b''-\addText #"-4"   g'''-\addText #"-29"  >8_\markup{  \fontsize #-4 "-8"} 
-<  c''  g''-\addText #"-15"   b''-\addText #"-4"  >8_\markup{  \fontsize #-4 "-3"}  ]
+<  des'  g'  g''' >16  
+<  g''  fis''' g''''>8 
+<  b  b'' g'''>8 
+<  c''  g'' b''>8  
 }
 
 \times 4/5 
 {
 
-<  b''  g'''-\addText #"-17"   g''''-\addText #"-40"  >16_\markup{  \fontsize #-4 "-4"} [ 
-<  b'  g''-\addText #"-46"   b''-\addText #"-4"  >8._\markup{  \fontsize #-4 "48"} 
-<  d'~  b''~-\addText #"-4"   g'''~-\addText #"-22"  >16_\markup{  \fontsize #-4 "32"}  ]
+<  b''  g''' g''''>16  
+<  b'  g'' b''>8. 
+<  d'~  b''~ g'''~>16  
 }
 
-<  d'  b''  g''' >16. [ 
-<  ees'~  g''~-\addText #"-29"   g'''~-\addText #"-32"  >8_\markup{  \fontsize #-4 "-4"}  ]
+<  d'  b''  g''' >16.  
+<  ees'~  g''~ g'''~>8  
 <  ees'~  g''~  g'''~ >32 
-<  ees'  g''  g''' >8 [ 
-<  ees'~  g'''~-\addText #"-23"   g''''~-\addText #"-4"  >8_\markup{  \fontsize #-4 "-42"}  ]
+<  ees'  g''  g''' >8  
+<  ees'~  g'''~ g''''~>8  
 % Measure 98
 
 
 
 <  ees'~  g'''~  g''''~ >4 
-<  ees'  g'''  g'''' >16. [ 
-<  c'  g''-\addText #"-16"   c'''-\addText #"-8"  >16._\markup{  \fontsize #-4 "18"} 
-<  g''  c'''-\addText #"-8"   g'''-\addText #"-37"  >16_\markup{  \fontsize #-4 "0"}  ]
-<  g''  c'''-\addText #"-8"  >16._\markup{  \fontsize #-4 "-2"} [ 
-<  c''~  ees''~-\addText #"-13"   ges'''~-\addText #"-10"  >8_\markup{  \fontsize #-4 "0"}  ]
+<  ees'  g'''  g'''' >16.  
+<  c'  g'' c'''>16. 
+<  g''  c''' g'''>16  
+<  g''  c'''>16.  
+<  c''~  ees''~ ges'''~>8  
 <  c''  dis''  fis''' >32 
 \times 2/3 
 {
 
-<  c'  ges'''-\addText #"-31"   g'''-\addText #"-23"  >8_\markup{  \fontsize #-4 "-17"} [ 
-<  d'  g'-\addText #"-30"   d''-\addText #"24"  >8_\markup{  \fontsize #-4 "34"} 
-<  d'  ees'-\addText #"30"   bes'-\addText #"49"  >8_\markup{  \fontsize #-4 "34"}  ]
+<  c'  ges''' g'''>8  
+<  d'  g' d''>8 
+<  d'  ees' bes'>8  
 }
 
 % Measure 99
 
 
 
-<  d'  c''-\addText #"-21"   c'''-\addText #"23"  >16_\markup{  \fontsize #-4 "34"} [ 
-<  d'  g'-\addText #"-21"   b''-\addText #"-2"  >16_\markup{  \fontsize #-4 "34"} 
-<  d'~  f'~-\addText #"-29"   des'''~-\addText #"-40"  >8_\markup{  \fontsize #-4 "34"}  ]
+<  d'  c'' c'''>16  
+<  d'  g' b''>16 
+<  d'~  f'~ des'''~>8  
 \times 4/5 
 {
 
-<  d'  f'  cis''' >8 [ 
-<  b  dis'-\addText #"-49"   d''-\addText #"14"  >8_\markup{  \fontsize #-4 "3"} 
-<  b  ais'-\addText #"-41"   d'''-\addText #"-3"  >16_\markup{  \fontsize #-4 "3"}  ]
+<  d'  f'  cis''' >8  
+<  b  dis' d''>8 
+<  b  ais' d'''>16  
 }
 
 \times 4/5 
 {
 
-<  b  b'-\addText #"37"   d'''-\addText #"7"  >8._\markup{  \fontsize #-4 "3"} [ 
-<  b  b'-\addText #"37"   dis'''-\addText #"-47"  >16_\markup{  \fontsize #-4 "3"} 
-<  b~  b'~-\addText #"37"   d'''~-\addText #"-33"  >16_\markup{  \fontsize #-4 "3"}  ]
+<  b  b' d'''>8.  
+<  b  b' dis'''>16 
+<  b~  b'~ d'''~>16  
 }
 
 <  b~  b'~  d'''~ >8 
-<  b  b'  d''' >32 [ 
-<  b~  d''~-\addText #"0"  >16._\markup{  \fontsize #-4 "3"}  ]
+<  b  b'  d''' >32  
+<  b~  d''~>16.  
 % Measure 100
 
 
 
-<  b  d'' >16 [ 
-<  d'  a'-\addText #"-25"   c'''-\addText #"22"  >16_\markup{  \fontsize #-4 "-22"} 
-<  bes  d''-\addText #"5"   c'''-\addText #"-37"  >32_\markup{  \fontsize #-4 "-26"} 
-<  e'~  d''~-\addText #"5"   c'''~-\addText #"-19"  >16._\markup{  \fontsize #-4 "1"}  ]
+<  b  d'' >16  
+<  d'  a' c'''>16 
+<  bes  d'' c'''>32 
+<  e'~  d''~ c'''~>16.  
 <  e'~  d''~  c'''~ >2. 
 % Measure 101
 
 
 
 <  e'  d''  c''' >4 
-<  d''  fis''-\addText #"-11"   b''-\addText #"5"  >8._\markup{  \fontsize #-4 "1"} [ 
-<  b~  e'~-\addText #"-45"   fis''~-\addText #"-11"  >16_\markup{  \fontsize #-4 "-11"}  ]
-<  b  e'  fis'' >32 [ 
-<  ais  fis'-\addText #"-10"   fis'''-\addText #"6"  >32_\markup{  \fontsize #-4 "-37"}  ]
+<  d''  fis'' b''>8.  
+<  b~  e'~ fis''~>16  
+<  b  e'  fis'' >32  
+<  ais  fis' fis'''>32  
 r32 
-<  ais~  fis'~-\addText #"-10"   b''~-\addText #"-45"  >8_\markup{  \fontsize #-4 "-37"} 
+<  ais~  fis'~ b''~>8 
 <  ais  fis'  b'' >32 
 r4 
 % Measure 102
@@ -1607,75 +1594,75 @@ R4*4
 {
 
 r4 
-<  e'  g''-\addText #"3"  >8_\markup{  \fontsize #-4 "27"} 
-<  e'  g''-\addText #"19"   g'''-\addText #"1"  >8_\markup{  \fontsize #-4 "27"} 
-<  d'  g'-\addText #"37"   a'-\addText #"7"  >8_\markup{  \fontsize #-4 "25"} 
+<  e'  g''>8 
+<  e'  g'' g'''>8 
+<  d'  g' a'>8 
 }
 
-<  g'  a'-\addText #"7"   g''-\addText #"-12"  >16_\markup{  \fontsize #-4 "37"} [ 
-<  g'  a'-\addText #"7"   g'''-\addText #"28"  >8_\markup{  \fontsize #-4 "37"} 
-<  g'~  a'~-\addText #"7"   g'''~-\addText #"-12"  >16_\markup{  \fontsize #-4 "37"}  ]
+<  g'  a' g''>16  
+<  g'  a' g'''>8 
+<  g'~  a'~ g'''~>16  
 <  g'~  a'~  g'''~ >4 
 % Measure 105
 
 
 
-<  g'  a'  g''' >32 [ 
-<  a'  d''-\addText #"-12"   g''-\addText #"-13"  >16._\markup{  \fontsize #-4 "7"} 
-<  a'  d''-\addText #"-12"   g'''-\addText #"1"  >16_\markup{  \fontsize #-4 "7"} 
-<  a'  c''-\addText #"-19"   g''-\addText #"6"  >16_\markup{  \fontsize #-4 "7"}  ]
-<  d'~  g'''~-\addText #"-16"   fis''''~-\addText #"41"  >8_\markup{  \fontsize #-4 "8"} 
-<  d'  g'''  fis'''' >32 [ 
-<  d'~  g''~-\addText #"-12"   fis''''~-\addText #"41"  >16._\markup{  \fontsize #-4 "8"}  ]
-<  d'  g''  fis'''' >16. [ 
-<  c''~  g''~-\addText #"-32"   g'''~-\addText #"-22"  >8_\markup{  \fontsize #-4 "-10"}  ]
+<  g'  a'  g''' >32  
+<  a'  d'' g''>16. 
+<  a'  d'' g'''>16 
+<  a'  c'' g''>16  
+<  d'~  g'''~ fis''''~>8 
+<  d'  g'''  fis'''' >32  
+<  d'~  g''~ fis''''~>16.  
+<  d'  g''  fis'''' >16.  
+<  c''~  g''~ g'''~>8  
 <  c''  g''  g''' >32 
 \times 4/5 
 {
 
-<  ees'  g''-\addText #"-2"   g'''-\addText #"-14"  >8_\markup{  \fontsize #-4 "18"} [ 
-<  ees'~  c''~-\addText #"13"   g'''~-\addText #"-16"  >8._\markup{  \fontsize #-4 "18"}  ]
+<  ees'  g'' g'''>8  
+<  ees'~  c''~ g'''~>8.  
 }
 
 % Measure 106
 
 
 
-<  ees'  c''  g''' >8. [ 
-<  ees'  c''-\addText #"7"   g''-\addText #"10"  >16_\markup{  \fontsize #-4 "18"}  ]
+<  ees'  c''  g''' >8.  
+<  ees'  c'' g''>16  
 \times 2/3 
 {
 
-<  ees'  c'''-\addText #"-14"   g'''-\addText #"-2"  >8_\markup{  \fontsize #-4 "18"} 
-<  c''~  g''~-\addText #"-13"   fis'''~-\addText #"37"  >4_\markup{  \fontsize #-4 "-22"} 
+<  ees'  c''' g'''>8 
+<  c''~  g''~ fis'''~>4 
 }
 
 \times 4/5 
 {
 
-<  c''  g''  fis''' >16 [ 
-<  c'  a'-\addText #"-40"   g'''-\addText #"-42"  >16_\markup{  \fontsize #-4 "-10"} 
-<  c'  d'-\addText #"46"   f'''-\addText #"-2"  >8._\markup{  \fontsize #-4 "-2"}  ]
+<  c''  g''  fis''' >16  
+<  c'  a' g'''>16 
+<  c'  d' f'''>8.  
 }
 
-<  g'  b'-\addText #"22"   g''-\addText #"-49"  >8_\markup{  \fontsize #-4 "-9"} [ 
-<  d'  fis'-\addText #"31"   cis'''-\addText #"44"  >16_\markup{  \fontsize #-4 "17"} 
-<  e'~  fis'~-\addText #"31"   b'~-\addText #"-46"  >16_\markup{  \fontsize #-4 "-48"}  ]
+<  g'  b' g''>8  
+<  d'  fis' cis'''>16 
+<  e'~  fis'~ b'~>16  
 % Measure 107
 
 
 
-<  e'  fis'  b' >32 [ 
-<  dis'  fis'-\addText #"31"   g''-\addText #"2"  >16._\markup{  \fontsize #-4 "-3"} 
-<  fis'  c''-\addText #"31"   g'''-\addText #"8"  >16_\markup{  \fontsize #-4 "31"} 
-<  f'~  c''~-\addText #"-30"   d'''~-\addText #"0"  >16_\markup{  \fontsize #-4 "-38"}  ]
+<  e'  fis'  b' >32  
+<  dis'  fis' g''>16. 
+<  fis'  c'' g'''>16 
+<  f'~  c''~ d'''~>16  
 <  f'~  c''~  d'''~ >4 
-<  f'  c''  d''' >16 [ 
-<  c'  f'-\addText #"-48"   d''-\addText #"-6"  >8_\markup{  \fontsize #-4 "22"} 
-<  f'~  d''~-\addText #"-3"   d'''~-\addText #"20"  >16_\markup{  \fontsize #-4 "-48"}  ]
-<  f'  d''  d''' >32 [ 
-<  f'  d''-\addText #"0"  >32_\markup{  \fontsize #-4 "-48"} 
-<  f'~  d''~-\addText #"-3"   d'''~-\addText #"5"  >8._\markup{  \fontsize #-4 "-48"}  ]
+<  f'  c''  d''' >16  
+<  c'  f' d''>8 
+<  f'~  d''~ d'''~>16  
+<  f'  d''  d''' >32  
+<  f'  d''>32 
+<  f'~  d''~ d'''~>8.  
 % Measure 108
 
 
@@ -1684,40 +1671,40 @@ r4
 {
 
 <  f'  d''  d''' >8 
-<  f'~  g'~-\addText #"14"   c'''~-\addText #"-16"  >4_\markup{  \fontsize #-4 "-48"} 
+<  f'~  g'~ c'''~>4 
 }
 
 <  f'~  g'~  c'''~ >4 
 \times 4/5 
 {
 
-<  f'  g'  c''' >8 [ 
-<  aes'  c''-\addText #"-20"   des''-\addText #"21"  >16_\markup{  \fontsize #-4 "-7"} 
-<  aes'  des''-\addText #"21"   c'''-\addText #"-11"  >8_\markup{  \fontsize #-4 "-7"}  ]
+<  f'  g'  c''' >8  
+<  aes'  c'' des''>16 
+<  aes'  des'' c'''>8  
 }
 
-<  e'~  g'~-\addText #"-11"   c''~-\addText #"-6"  >4_\markup{  \fontsize #-4 "10"} 
+<  e'~  g'~ c''~>4 
 % Measure 109
 
 
 
-<  e'  g'  c'' >16. [ 
-<  a~  bes''~-\addText #"-4"   b''~-\addText #"25"  >8_\markup{  \fontsize #-4 "13"}  ]
+<  e'  g'  c'' >16.  
+<  a~  bes''~ b''~>8  
 <  a~  ais''~  b''~ >32 
 <  a~  ais''~  b''~ >8 
-<  a  ais''  b'' >32 [ 
-<  c'  f'-\addText #"29"   ges''-\addText #"28"  >16_\markup{  \fontsize #-4 "18"} 
-<  f'~  a'~-\addText #"-27"   b''~-\addText #"47"  >32_\markup{  \fontsize #-4 "20"}  ]
+<  a  ais''  b'' >32  
+<  c'  f' ges''>16 
+<  f'~  a'~ b''~>32  
 \times 2/3 
 {
 
 <  f'  a'  b'' >16 
-<  ais~  dis'~-\addText #"-32"   g''~-\addText #"-38"  >4_\markup{  \fontsize #-4 "32"} 
+<  ais~  dis'~ g''~>4 
 <  ais~  dis'~  g''~ >16 
 }
 
-<  ais  dis'  g'' >8. [ 
-<  bes~  b~-\addText #"35"   fis''~-\addText #"41"  >16_\markup{  \fontsize #-4 "32"}  ]
+<  ais  dis'  g'' >8.  
+<  bes~  b~ fis''~>16  
 % Measure 110
 
 
@@ -1725,31 +1712,31 @@ r4
 \times 4/7 
 {
 
-<  bes  b  ges'' >16 [ 
-<  dis'  b'-\addText #"-38"   b''-\addText #"-23"  >16_\markup{  \fontsize #-4 "-43"} 
-<  b  dis'-\addText #"-43"   b'-\addText #"-38"  >8._\markup{  \fontsize #-4 "26"} 
-<  dis'  e'-\addText #"3"   g''-\addText #"3"  >8_\markup{  \fontsize #-4 "-43"}  ]
+<  bes  b  ges'' >16  
+<  dis'  b' b''>16 
+<  b  dis' b'>8. 
+<  dis'  e' g''>8  
 }
 
-<  ees'  e'-\addText #"3"   g'-\addText #"-23"  >16_\markup{  \fontsize #-4 "-43"} [ 
-<  ees'~  e'~-\addText #"40"   g''~-\addText #"-13"  >8_\markup{  \fontsize #-4 "-43"}  ]
-<  ees'  e'  g'' >32 [ 
-<  ees'~  g'~-\addText #"2"   b'~-\addText #"21"  >32_\markup{  \fontsize #-4 "-40"}  ]
+<  ees'  e' g'>16  
+<  ees'~  e'~ g''~>8  
+<  ees'  e'  g'' >32  
+<  ees'~  g'~ b'~>32  
 \times 4/5 
 {
 
-<  ees'  g'  b' >8 [ 
-<  fis'  b'-\addText #"21"   g''-\addText #"-9"  >8_\markup{  \fontsize #-4 "-12"} 
-<  fis'~  b'~-\addText #"21"   g''~-\addText #"-2"  >16_\markup{  \fontsize #-4 "-12"}  ]
+<  ees'  g'  b' >8  
+<  fis'  b' g''>8 
+<  fis'~  b'~ g''~>16  
 }
 
 \times 4/7 
 {
 
-<  fis'  b'  g'' >16 [ 
-<  fis'  g'-\addText #"-30"   b'-\addText #"21"  >8_\markup{  \fontsize #-4 "-12"} 
-<  b  fis'-\addText #"-12"   b'-\addText #"21"  >8_\markup{  \fontsize #-4 "8"} 
-<  d'~  e'~-\addText #"14"   g'~-\addText #"39"  >8_\markup{  \fontsize #-4 "-8"}  ]
+<  fis'  b'  g'' >16  
+<  fis'  g' b'>8 
+<  b  fis' b'>8 
+<  d'~  e'~ g'~>8  
 }
 
 % Measure 111
@@ -1760,16 +1747,16 @@ r4
 {
 
 <  d'  e'  g' >4\fff
-<  g''  aes''-\addText #"-17"   g'''-\addText #"34"  >8_\markup{  \fontsize #-4 "18"} 
+<  g''  aes'' g'''>8 
 }
 
-<  e'  fis'''-\addText #"21"   g'''-\addText #"-21"  >16_\markup{  \fontsize #-4 "27"} [ 
-<  fis'''  g'''-\addText #"-20"  >16_\markup{  \fontsize #-4 "21"} 
-<  g'  fis'''-\addText #"21"   g'''-\addText #"-17"  >16_\markup{  \fontsize #-4 "18"} 
-<  g''~  fis'''~-\addText #"21"   g'''~-\addText #"-17"  >16_\markup{  \fontsize #-4 "-13"}  ]
-<  g''  fis'''  g''' >32 [ 
-<  g'  fis'''-\addText #"21"   g'''-\addText #"-37"  >8.._\markup{  \fontsize #-4 "-4"}  ]
-<  e'~  c''~-\addText #"-35"   g'''~-\addText #"-11"  >4_\markup{  \fontsize #-4 "-15"} 
+<  e'  fis''' g'''>16  
+<  fis'''  g'''>16 
+<  g'  fis''' g'''>16 
+<  g''~  fis'''~ g'''~>16  
+<  g''  fis'''  g''' >32  
+<  g'  fis''' g'''>8..  
+<  e'~  c''~ g'''~>4 
 % Measure 112
 
 
@@ -1777,20 +1764,20 @@ r4
 \times 2/3 
 {
 
-<  e'  c''  g''' >8 [ 
-<  g'  c''-\addText #"-35"   g''-\addText #"1"  >16_\markup{  \fontsize #-4 "20"} 
-<  g'~  c''~-\addText #"-35"   g'''~-\addText #"-13"  >8._\markup{  \fontsize #-4 "20"}  ]
+<  e'  c''  g''' >8  
+<  g'  c'' g''>16 
+<  g'~  c''~ g'''~>8.  
 }
 
-<  g'  c''  g''' >32 [ 
-<  bes  g'-\addText #"-4"   g'''-\addText #"-18"  >32_\markup{  \fontsize #-4 "15"} 
-<  bes~  g''~-\addText #"-16"   g'''~-\addText #"-36"  >8._\markup{  \fontsize #-4 "15"}  ]
+<  g'  c''  g''' >32  
+<  bes  g' g'''>32 
+<  bes~  g''~ g'''~>8.  
 \times 4/5 
 {
 
 <  bes  g''  g''' >4. 
-<  bes  d'-\addText #"-4"   g'''-\addText #"-14"  >8_\markup{  \fontsize #-4 "21"} 
-<  bes~  d'~-\addText #"-4"   g'''~-\addText #"2"  >8_\markup{  \fontsize #-4 "21"} 
+<  bes  d' g'''>8 
+<  bes~  d'~ g'''~>8 
 }
 
 % Measure 113
@@ -1802,32 +1789,32 @@ r4
 {
 
 <  bes  d'  g''' >16 
-<  d'~  g''~-\addText #"-17"   c'''~-\addText #"3"  >4_\markup{  \fontsize #-4 "-1"} 
+<  d'~  g''~ c'''~>4 
 <  d'~  g''~  c'''~ >16 
 }
 
 <  d'~  g''~  c'''~ >8 
-<  d'  g''  c''' >32 [ 
-<  f'~  c''~-\addText #"-11"   g'''~-\addText #"-12"  >16._\markup{  \fontsize #-4 "-39"}  ]
-<  f'  c''  g''' >16. [ 
-<  f'~  c''~-\addText #"-11"   g'''~-\addText #"-31"  >8_\markup{  \fontsize #-4 "-39"}  ]
+<  d'  g''  c''' >32  
+<  f'~  c''~ g'''~>16.  
+<  f'  c''  g''' >16.  
+<  f'~  c''~ g'''~>8  
 <  f'~  c''~  g'''~ >32 
 % Measure 114
 
 
 
-<  f'  c''  g''' >16 [ 
-<  f'  c''-\addText #"-14"   g''-\addText #"0"  >16_\markup{  \fontsize #-4 "-39"} 
-<  f'  c''-\addText #"-5"   g'''-\addText #"-25"  >16_\markup{  \fontsize #-4 "-39"} 
-<  d'~  b'~-\addText #"14"   g''~-\addText #"-1"  >16_\markup{  \fontsize #-4 "33"}  ]
+<  f'  c''  g''' >16  
+<  f'  c'' g''>16 
+<  f'  c'' g'''>16 
+<  d'~  b'~ g''~>16  
 <  d'~  b'~  g''~ >4 
-<  d'  b'  g'' >8 [ 
-<  d'  ees'-\addText #"-27"   f'''-\addText #"33"  >8_\markup{  \fontsize #-4 "43"}  ]
+<  d'  b'  g'' >8  
+<  d'  ees' f'''>8  
 \times 4/5 
 {
 
-<  c'  ees'-\addText #"24"   ees''-\addText #"34"  >8_\markup{  \fontsize #-4 "-47"} [ 
-<  bes  g'-\addText #"-26"   b'-\addText #"48"  >8._\markup{  \fontsize #-4 "-44"}  ]
+<  c'  ees' ees''>8  
+<  bes  g' b'>8.  
 }
 
 % Measure 115
@@ -1837,41 +1824,41 @@ r4
 \times 2/3 
 {
 
-<  b  e'-\addText #"3"  >16_\markup{  \fontsize #-4 "4"} [ 
-<  b  b''-\addText #"-18"  >8_\markup{  \fontsize #-4 "4"} 
-<  b  f'-\addText #"-11"   des'''-\addText #"-34"  >8_\markup{  \fontsize #-4 "-28"} 
-<  d'  e'-\addText #"25"   b'-\addText #"20"  >16_\markup{  \fontsize #-4 "2"}  ]
+<  b  e'>16  
+<  b  b''>8 
+<  b  f' des'''>8 
+<  d'  e' b'>16  
 }
 
-<  d'  e'-\addText #"25"   d'''-\addText #"48"  >16._\markup{  \fontsize #-4 "2"} [ 
-<  b  d'-\addText #"-43"  >16._\markup{  \fontsize #-4 "-23"} 
-<  b~  d'~-\addText #"45"   d'''~-\addText #"-26"  >16_\markup{  \fontsize #-4 "-23"}  ]
+<  d'  e' d'''>16.  
+<  b  d'>16. 
+<  b~  d'~ d'''~>16  
 \times 2/3 
 {
 
-<  b  d'  d''' >8. [ 
-<  c'  b'-\addText #"-1"   dis'''-\addText #"-32"  >16_\markup{  \fontsize #-4 "-10"} 
-<  c'  b'-\addText #"-1"   d'''-\addText #"-41"  >8_\markup{  \fontsize #-4 "-10"}  ]
+<  b  d'  d''' >8.  
+<  c'  b' dis'''>16 
+<  c'  b' d'''>8  
 }
 
-<  a  b'-\addText #"-1"   d''-\addText #"1"  >16_\markup{  \fontsize #-4 "29"} [ 
-<  a~  b'~-\addText #"-1"   d'''~-\addText #"-14"  >8._\markup{  \fontsize #-4 "29"}  ]
+<  a  b' d''>16  
+<  a~  b'~ d'''~>8.  
 % Measure 116
 
 
 
-<  a  b'  d''' >32 [ 
-<  d'  fis'-\addText #"-12"   cis''-\addText #"-6"  >16._\markup{  \fontsize #-4 "-30"} 
-<  cis''~  c'''~-\addText #"25"   g'''~-\addText #"-15"  >8_\markup{  \fontsize #-4 "-6"}  ]
+<  a  b'  d''' >32  
+<  d'  fis' cis''>16. 
+<  cis''~  c'''~ g'''~>8  
 <  cis''~  c'''~  g'''~ >4 
-<  cis''  c'''  g''' >16. [ 
-<  g'  a'-\addText #"34"   c''-\addText #"28"  >16._\markup{  \fontsize #-4 "35"} 
-<  g'  c''-\addText #"14"  >16_\markup{  \fontsize #-4 "-13"}  ]
+<  cis''  c'''  g''' >16.  
+<  g'  a' c''>16. 
+<  g'  c''>16  
 \times 2/3 
 {
 
 r8 
-<  ees''  c'''-\addText #"18"  >4_\markup{  \fontsize #-4 "-29"} 
+<  ees''  c'''>4 
 }
 
 % Measure 117
@@ -1882,7 +1869,7 @@ r8
 {
 
 r8 
-<  a~  ees'~-\addText #"26"   b''~-\addText #"-26"  >4_\markup{  \fontsize #-4 "-3"} 
+<  a~  ees'~ b''~>4 
 }
 
 <  a~  dis'~  b''~ >2. 
@@ -1891,36 +1878,36 @@ r8
 
 
 <  a~  dis'~  b''~ >4 
-<  a  dis'  b'' >16 [ 
-<  g'~  g''~-\addText #"13"   c'''~-\addText #"-20"  >8._\markup{  \fontsize #-4 "40"}  ]
-<  g'  g''  c''' >16. [ 
-<  des'  ges'-\addText #"21"   c'''-\addText #"-20"  >16._\markup{  \fontsize #-4 "49"} 
-<  g'  c'''-\addText #"-20"  >16_\markup{  \fontsize #-4 "-19"}  ]
+<  a  dis'  b'' >16  
+<  g'~  g''~ c'''~>8.  
+<  g'  g''  c''' >16.  
+<  des'  ges' c'''>16. 
+<  g'  c'''>16  
 \times 2/3 
 {
 
-<  g'  g''-\addText #"-22"   c'''-\addText #"-20"  >8_\markup{  \fontsize #-4 "-21"} [ 
-<  g'  c'''-\addText #"-20"  >8_\markup{  \fontsize #-4 "8"} 
-<  g'  bes''-\addText #"17"   c'''-\addText #"-20"  >8_\markup{  \fontsize #-4 "-21"}  ]
+<  g'  g'' c'''>8  
+<  g'  c'''>8 
+<  g'  bes'' c'''>8  
 }
 
 % Measure 119
 
 
 
-<  e'  g'-\addText #"-30"   c'''-\addText #"-20"  >16._\markup{  \fontsize #-4 "6"} [ 
-<  g''  c'''-\addText #"-20"   ges'''-\addText #"46"  >16_\markup{  \fontsize #-4 "0"} 
-<  a'~  gis''~-\addText #"-20"   g'''~-\addText #"-19"  >16._\markup{  \fontsize #-4 "-2"}  ]
-<  a'  gis''  g''' >8 [ 
-<  bes~  ees'~-\addText #"-9"   g''~-\addText #"6"  >8_\markup{  \fontsize #-4 "-10"}  ]
+<  e'  g' c'''>16.  
+<  g''  c''' ges'''>16 
+<  a'~  gis''~ g'''~>16.  
+<  a'  gis''  g''' >8  
+<  bes~  ees'~ g''~>8  
 \times 2/3 
 {
 
 <  bes  ees'  g'' >8 
-<  d'  g'-\addText #"2"   b'-\addText #"24"  >4_\markup{  \fontsize #-4 "13"} 
+<  d'  g' b'>4 
 }
 
-<  d'~  a'~-\addText #"-15"   g'''~-\addText #"-22"  >4_\markup{  \fontsize #-4 "-25"} 
+<  d'~  a'~ g'''~>4 
 % Measure 120
 
 
@@ -1928,46 +1915,46 @@ r8
 \times 4/5 
 {
 
-<  d'  a'  g''' >8 [ 
-<  d'  g''-\addText #"-13"   g'''-\addText #"-28"  >16_\markup{  \fontsize #-4 "-25"} 
-<  d'  e'-\addText #"34"   g'''-\addText #"-8"  >16_\markup{  \fontsize #-4 "-25"} 
-<  d'  e'-\addText #"34"   g''-\addText #"10"  >16_\markup{  \fontsize #-4 "-25"}  ]
+<  d'  a'  g''' >8  
+<  d'  g'' g'''>16 
+<  d'  e' g'''>16 
+<  d'  e' g''>16  
 }
 
-<  d'  g'-\addText #"9"   g'''-\addText #"-17"  >16._\markup{  \fontsize #-4 "-25"} [ 
-<  d'  fis'''-\addText #"37"   g''''-\addText #"-28"  >32_\markup{  \fontsize #-4 "42"} 
-<  f'  g'-\addText #"-16"   fis'''-\addText #"37"  >16._\markup{  \fontsize #-4 "-47"} 
-<  d'~  g'~-\addText #"23"   g''~-\addText #"0"  >32_\markup{  \fontsize #-4 "11"}  ]
+<  d'  g' g'''>16.  
+<  d'  fis''' g''''>32 
+<  f'  g' fis'''>16. 
+<  d'~  g'~ g''~>32  
 \times 2/3 
 {
 
-<  d'  g'  g'' >8 [ 
-<  des'  g'-\addText #"-16"   g'''-\addText #"2"  >16_\markup{  \fontsize #-4 "25"} 
-<  des'~  g''~-\addText #"12"   g'''~-\addText #"2"  >8._\markup{  \fontsize #-4 "25"}  ]
+<  d'  g'  g'' >8  
+<  des'  g' g'''>16 
+<  des'~  g''~ g'''~>8.  
 }
 
-<  des'  g''  g''' >8 [ 
-<  des'~  d'~-\addText #"-13"   g'''~-\addText #"2"  >8_\markup{  \fontsize #-4 "25"}  ]
+<  des'  g''  g''' >8  
+<  des'~  d'~ g'''~>8  
 % Measure 121
 
 
 
 <  des'~  d'~  g'''~ >8 
-<  des'  d'  g''' >32 [ 
-<  c'~  g''~-\addText #"-11"   g''''~-\addText #"-34"  >16._\markup{  \fontsize #-4 "28"}  ]
+<  des'  d'  g''' >32  
+<  c'~  g''~ g''''~>16.  
 \times 2/3 
 {
 
 <  c'  g''  g'''' >16 
-<  c'~  c''~-\addText #"-44"   g''~-\addText #"-21"  >4_\markup{  \fontsize #-4 "28"} 
+<  c'~  c''~ g''~>4 
 <  c'  c''  g'' >16 
 }
 
 r16 
-<  c''  g''-\addText #"-22"   g'''-\addText #"-37"  >16._\markup{  \fontsize #-4 "-16"} [ 
-<  aes'  c''-\addText #"-16"   g'''-\addText #"-14"  >32_\markup{  \fontsize #-4 "-24"} 
-<  aes'  c''-\addText #"-16"   g''-\addText #"-6"  >16_\markup{  \fontsize #-4 "-24"}  ]
-<  aes'  c''-\addText #"-16"   g'''-\addText #"-11"  >4_\markup{  \fontsize #-4 "-24"} 
+<  c''  g'' g'''>16.  
+<  aes'  c'' g'''>32 
+<  aes'  c'' g''>16  
+<  aes'  c'' g'''>4 
 % Measure 122
 
 
@@ -1975,18 +1962,18 @@ r16
 \times 4/7 
 {
 
-<  d'  g''-\addText #"25"   g'''-\addText #"-11"  >8_\markup{  \fontsize #-4 "46"} [ 
-<  c''  ges''-\addText #"6"   g''-\addText #"-31"  >8_\markup{  \fontsize #-4 "-28"} 
-<  b'  fis''-\addText #"6"   g''''-\addText #"8"  >16_\markup{  \fontsize #-4 "19"} 
-<  b'~  fis''~-\addText #"6"   g''~-\addText #"-24"  >8_\markup{  \fontsize #-4 "13"}  ]
+<  d'  g'' g'''>8  
+<  c''  ges'' g''>8 
+<  b'  fis'' g''''>16 
+<  b'~  fis''~ g''~>8  
 }
 
 \times 4/5 
 {
 
-<  b'  fis''  g'' >16 [ 
-<  c''  ges''-\addText #"6"   g''-\addText #"-15"  >8_\markup{  \fontsize #-4 "5"} 
-<  ges''~  g''~-\addText #"-1"   fis'''~-\addText #"49"  >8_\markup{  \fontsize #-4 "6"}  ]
+<  b'  fis''  g'' >16  
+<  c''  ges'' g''>8 
+<  ges''~  g''~ fis'''~>8  
 }
 
 <  ges''~  g''~  ges'''~ >4 
@@ -1994,46 +1981,45 @@ r16
 {
 
 <  ges''  g''  ges''' >8 
-<  c'~  ges'~-\addText #"-1"   g'~-\addText #"-28"  >4_\markup{  \fontsize #-4 "3"} 
+<  c'~  ges'~ g'~>4 
 }
 
 % Measure 123
 
 
 
-<  c'  fis'  g' >32 [ 
-<  ees'  e'-\addText #"8"   a'-\addText #"8"  >32_\markup{  \fontsize #-4 "-22"} 
-<  ees'  e'-\addText #"8"   f'-\addText #"38"  >16_\markup{  \fontsize #-4 "-22"} 
-<  a  c''-\addText #"-21"   des'''-\addText #"-37"  >8_\markup{  \fontsize #-4 "18"}  ]
-<  a  g'-\addText #"19"   d'''-\addText #"18"  >2._\markup{  \fontsize #-4 "18"} 
+<  c'  fis'  g' >32  
+<  ees'  e' a'>32 
+<  ees'  e' f'>16 
+<  a  c'' des'''>8  
+<  a  g' d'''>2. 
 % Measure 124
 
 
 
-<  a  d''-\addText #"0"   d'''-\addText #"-47"  >16_\markup{  \fontsize #-4 "18"} [ 
-<  cis'  c''-\addText #"-7"   c'''-\addText #"30"  >16_\markup{  \fontsize #-4 "14"} 
-<  bes  d'-\addText #"-1"   c'''-\addText #"-24"  >8_\markup{  \fontsize #-4 "-14"}  ]
+<  a  d'' d'''>16  
+<  cis'  c'' c'''>16 
+<  bes  d' c'''>8  
 r4 
 \times 2/3 
 {
 
 r4 
-<  b~  c''~-\addText #"-8"   g''~-\addText #"3"  >8_\markup{  \fontsize #-4 "25"} 
+<  b~  c''~ g''~>8 
 }
 
-<  b  c''  g'' >16 [ 
-<  b  g''-\addText #"3"   c'''-\addText #"-1"  >8._\markup{  \fontsize #-4 "25"}  ]
+<  b  c''  g'' >16  
+<  b  g'' c'''>8.  
 % Measure 125
 
 
 
-<  b  e'-\addText #"-26"   c''-\addText #"-20"   g''-\addText #"3"   b''-\addText #"-21"  >8.._\markup{  \fontsize #-4 "25"} [ 
-<  b~  g''~-\addText #"3"   b''~-\addText #"24"  >32_\markup{  \fontsize #-4 "25"}  ]
-<  b  g''  b'' >16 [ 
-<  b  dis''-\addText #"-39"   fis''-\addText #"33"  >16_\markup{  \fontsize #-4 "22"} 
-<  b  dis''-\addText #"-39"   b''-\addText #"-6"  >8_\markup{  \fontsize #-4 "-8"}  ]
-r4 
-r4 
+<  b  e' c'' g'' b''>8..  
+<  b~  g''~ b''~>32  
+<  b  g''  b'' >16  
+<  b  dis'' fis''>16 
+<  b  dis'' b''>8  
+r2
 % Measure 126
 
 
